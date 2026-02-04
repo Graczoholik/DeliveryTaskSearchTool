@@ -44,7 +44,10 @@
 <body>
 
 <h1>🗡️ Wyszukiwarka by Graczu 🛡️</h1>
-<input type="text" id="search" placeholder="Wpisz nazwę przedmiotu..." />
+<div style="max-width:600px; margin-bottom:20px; display:flex; gap:8px;">
+  <input type="text" id="search" placeholder="Wpisz nazwę przedmiotu..." style="flex:1" />
+  <button id="btnSearch" style="padding:14px 18px; border-radius:6px; border:1px solid #b89b5e; background:#e6d8b5; cursor:pointer;">Search</button>
+</div>
 
 <div id="results"></div>
 <<footer style="margin-top:40px; text-align:center; color:#999; font-size:13px;">
@@ -58,14 +61,14 @@ let items = [];
 fetch('items.json')
   .then(res => res.json())
   .then(data => {
-    // normalizacja pól (ważne!)
-    items = data.map(i => ({
-      name: i.name || i.Name,
+    const raw = Array.isArray(data) ? data : (data.items || []);
+    items = raw.map(i => ({
+      name: (i.name || i.Name || '').toString(),
       category: i.category || i.Category || 'Inne',
       weight: i.weight || i.Weight || '-',
       dropsFrom: i.dropsFrom || i.Drop || '-',
       description: i.description || i.Description || ''
-    }));
+    })).filter(i => i.name.length > 0);
     renderResults(items);
   })
   .catch(err => {
@@ -126,6 +129,7 @@ function renderResults(filtered) {
   });
 }
 
+document.getElementById('btnSearch').addEventListener('click', runSearch);
 searchInput.addEventListener('input', runSearch);
 searchInput.addEventListener('keydown', e => {
   if (e.key === 'Enter') runSearch();
@@ -133,8 +137,12 @@ searchInput.addEventListener('keydown', e => {
 
 function runSearch() {
   const q = searchInput.value.toLowerCase().trim();
+  if (!q) {
+    renderResults(items);
+    return;
+  }
   const filtered = items.filter(i =>
-    i.name && i.name.toLowerCase().includes(q)
+    i.name.toLowerCase().includes(q)
   );
   renderResults(filtered);
 }
