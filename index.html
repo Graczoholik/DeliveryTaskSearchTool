@@ -6,17 +6,37 @@
   <style>
     body {
     font-family: 'Trebuchet MS', Arial, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    color: #3b2f1c;
     background:
-      url('https://static.tibia.com/images/global/header/background-artwork.jpg') center top no-repeat,
-      url('https://www.transparenttextures.com/patterns/parchment.png'),
-      #1b1a16;
-    background-size: cover, auto, auto;
-    background-attachment: fixed;
-    color:#eee;
-    padding:20px;
+      linear-gradient(rgba(255,255,240,0.92), rgba(255,255,240,0.92)),
+      repeating-linear-gradient(
+        45deg,
+        #e6d8b5,
+        #e6d8b5 10px,
+        #eadfc2 10px,
+        #eadfc2 20px
+      );
   }
-    input { width:100%; padding:12px; font-size:16px; margin-bottom:20px; }
-    .item { border:1px solid #333; padding:12px; margin-bottom:10px; border-radius:6px; }
+    input {
+    width: 100%;
+    padding: 14px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    border: 1px solid #b89b5e;
+    background: #fffaf0;
+  }
+    .item {
+    background: #fffaf0;
+    border: 1px solid #c9b27c;
+    padding: 12px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+  }
     .name { font-size:18px; font-weight:bold; color:#7dd3fc; }
     .meta { font-size:14px; color:#ccc; }
   </style>
@@ -38,8 +58,15 @@ let items = [];
 fetch('items.json')
   .then(res => res.json())
   .then(data => {
-    items = data;
-    
+    // normalizacja pól (ważne!)
+    items = data.map(i => ({
+      name: i.name || i.Name,
+      category: i.category || i.Category || 'Inne',
+      weight: i.weight || i.Weight || '-',
+      dropsFrom: i.dropsFrom || i.Drop || '-',
+      description: i.description || i.Description || ''
+    }));
+    renderResults(items);
   })
   .catch(err => {
     resultsDiv.innerHTML = '<p>Błąd ładowania items.json</p>';
@@ -99,8 +126,18 @@ function renderResults(filtered) {
   });
 }
 
-searchInput.addEventListener('input', () => {
-  const q = searchInput.value.toLowerCase();
+searchInput.addEventListener('input', runSearch);
+searchInput.addEventListener('keydown', e => {
+  if (e.key === 'Enter') runSearch();
+});
+
+function runSearch() {
+  const q = searchInput.value.toLowerCase().trim();
+  const filtered = items.filter(i =>
+    i.name && i.name.toLowerCase().includes(q)
+  );
+  renderResults(filtered);
+}
   const filtered = items.filter(i =>
     i.name.toLowerCase().includes(q)
   );
