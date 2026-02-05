@@ -115,10 +115,11 @@
       const raw = Array.isArray(data) ? data : (data.items || []);
       items = raw
         .map(i => ({
+          // normalizacja pól – WYRAŹNIE po nazwach
           name: String(i.name || i.Name || '').trim(),
+          weight: String(i.weight || i.Weight || i.waga || '-').trim(),
+          dropsFrom: String(i.dropsFrom || i.Drop || i.drops || i.monsters || '-').trim(),
           category: i.category || i.Category || 'Inne',
-          weight: i.weight || i.Weight || '-',
-          dropsFrom: i.dropsFrom || i.Drop || '-',
           description: i.description || i.Description || ''
         }))
         .filter(i => i.name.length > 0);
@@ -158,7 +159,8 @@
             <img src="${item.icon || 'icons/unknown.gif'}" class="icon" alt="${item.name}">
             <div>
               <div class="name">${item.name}</div>
-              <div class="meta">Opis: ${item.description}</div>
+              <div class="meta"><strong>Waga:</strong> ${item.weight} oz</div>
+              <div class="meta"><strong>Wypada z:</strong> ${item.dropsFrom}</div>
             </div>
           `;
           resultsDiv.appendChild(div);
