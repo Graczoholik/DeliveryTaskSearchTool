@@ -1,200 +1,418 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Wyszukiwarka by Graczu – Tibia</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Delivery task search tool by Graczu</title>
   <style>
-    body {
-      font-family: 'Trebuchet MS', Arial, sans-serif;
-      min-height: 100vh;
-      margin: 0;
-      padding: 20px;
-      color: #3b2f1c;
+    :root{ --ink:#2f2412; --ink2:#5c4b2a; --paper:#fff7e3; --paper2:#f2e1b8; --line:#c9b27c; --line2:#b89b5e; }
+    *{ box-sizing:border-box; }
+
+    body{
+      margin:0;
+      padding:24px;
+      min-height:100vh;
+      font-family:"Trebuchet MS", Arial, sans-serif;
+      color:var(--ink);
       background:
-        linear-gradient(rgba(255,255,240,0.92), rgba(255,255,240,0.92)),
-        repeating-linear-gradient(
-          45deg,
-          #e6d8b5,
-          #e6d8b5 10px,
-          #eadfc2 10px,
-          #eadfc2 20px
-        );
+        radial-gradient(1200px 600px at 20% 10%, rgba(90,68,34,0.10), transparent 55%),
+        radial-gradient(900px 500px at 85% 20%, rgba(80,120,160,0.10), transparent 60%),
+        radial-gradient(1100px 650px at 50% 95%, rgba(0,0,0,0.12), transparent 55%),
+        linear-gradient(rgba(255,255,240,0.90), rgba(255,255,240,0.92)),
+        repeating-linear-gradient(45deg, var(--paper2), var(--paper2) 10px, #eadfc2 10px, #eadfc2 20px);
+      background-attachment: fixed;
     }
 
-    h1 { margin-bottom: 20px; }
+    .wrap{ max-width: 1100px; margin:0 auto; }
 
-    .search-bar {
-      max-width: 600px;
-      margin-bottom: 20px;
-      display: flex;
-      gap: 8px;
+    .hero{
+      position:relative;
+      border:1px solid var(--line);
+      border-radius:14px;
+      overflow:hidden;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+      background: linear-gradient(180deg, rgba(255,250,240,0.92), rgba(255,250,240,0.86));
+      padding:18px 18px 16px;
+      margin-bottom:18px;
     }
 
-    input {
-      flex: 1;
-      padding: 14px;
-      font-size: 16px;
-      border-radius: 6px;
-      border: 1px solid #b89b5e;
-      background: #fffaf0;
+    .hero::before{
+      content:"";
+      position:absolute;
+      inset:0;
+      background:
+        radial-gradient(700px 280px at 30% 30%, rgba(255,215,0,0.12), transparent 60%),
+        radial-gradient(500px 240px at 70% 35%, rgba(0,191,255,0.10), transparent 60%),
+        radial-gradient(900px 320px at 50% 120%, rgba(0,0,0,0.10), transparent 60%);
+      pointer-events:none;
     }
 
-    button {
-      padding: 14px 18px;
-      border-radius: 6px;
-      border: 1px solid #b89b5e;
+    .heroInner{ position:relative; display:flex; gap:14px; align-items:center; flex-wrap:wrap; }
+
+    .logo{ display:flex; align-items:center; gap:12px; min-width:280px; }
+
+    /* Custom fantasy emblem (not the official Tibia logo). */
+    .emblem{ width:54px; height:54px; flex:0 0 54px; filter: drop-shadow(0 2px 2px rgba(0,0,0,0.18)); }
+
+    .titleBlock h1{ margin:0; font-size:20px; letter-spacing:0.2px; }
+    .subtitle{ margin-top:4px; font-size:13px; color:var(--ink2); }
+
+    .controls{ margin-left:auto; display:flex; gap:10px; flex-wrap:wrap; justify-content:flex-end; }
+
+    .field{
+      display:flex;
+      align-items:center;
+      gap:8px;
+      background: rgba(255,250,240,0.85);
+      border:1px solid var(--line2);
+      border-radius:10px;
+      padding:10px;
+    }
+
+    input, select, button{ font: inherit; }
+
+    input{
+      width: 320px;
+      max-width: 60vw;
+      padding:10px 12px;
+      border-radius:8px;
+      border:1px solid var(--line2);
+      background: var(--paper);
+      outline:none;
+    }
+
+    select{
+      padding:10px 12px;
+      border-radius:8px;
+      border:1px solid var(--line2);
+      background: var(--paper);
+      outline:none;
+      max-width: 52vw;
+    }
+
+    button{
+      padding:10px 14px;
+      border-radius:8px;
+      border:1px solid var(--line2);
       background: #e6d8b5;
-      cursor: pointer;
+      cursor:pointer;
+      transition: transform .08s ease, filter .15s ease;
+    }
+    button:hover{ filter: brightness(1.03); }
+    button:active{ transform: translateY(1px); }
+
+    .status{
+      margin-top:10px;
+      color:var(--ink2);
+      font-size:13px;
+      display:flex;
+      gap:12px;
+      flex-wrap:wrap;
     }
 
-    h2 { margin-top: 30px; }
-
-    .item {
-      background: #fffaf0;
-      border: 1px solid #c9b27c;
-      padding: 12px;
-      margin-bottom: 10px;
-      border-radius: 6px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.15);
-      display: flex;
-      gap: 12px;
-      align-items: flex-start;
+    .pill{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:6px 10px;
+      border-radius:999px;
+      border:1px solid var(--line);
+      background: rgba(255,250,240,0.70);
     }
 
-    .icon {
-      width: 32px;
-      height: 32px;
+    h2{ margin:18px 0 10px; font-size:16px; color:var(--ink); }
+
+    .item{
+      background: rgba(255,250,240,0.92);
+      border:1px solid var(--line);
+      padding:12px;
+      margin-bottom:10px;
+      border-radius:12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.10);
+      display:flex;
+      gap:12px;
+      align-items:flex-start;
+      transition: transform .10s ease, box-shadow .15s ease;
+    }
+
+    .item:hover{ transform: translateY(-1px); box-shadow: 0 6px 14px rgba(0,0,0,0.12); }
+
+    .icon{
+      width:32px;
+      height:32px;
       image-rendering: pixelated;
-      flex-shrink: 0;
+      flex-shrink:0;
+      border-radius:6px;
+      border:1px solid rgba(0,0,0,0.10);
+      background: rgba(255,255,255,0.25);
     }
 
-    .name {
-      font-size: 18px;
-      font-weight: bold;
-      margin-bottom: 6px;
+    .name{
+      font-size:16px;
+      font-weight:700;
+      margin:0 0 6px;
+      line-height:1.2;
+      word-break: break-word;
     }
 
-    .meta {
-      font-size: 14px;
-      color: #555;
-    }
+    .meta{ font-size:13px; color:#4f432a; line-height:1.35; }
+    .meta strong{ color: var(--ink); }
 
-    footer {
-      margin-top: 40px;
-      text-align: center;
-      color: #777;
-      font-size: 13px;
+    footer{ margin-top:34px; text-align:center; color:#6a5a3a; font-size:13px; }
+    a{ color:#244d7a; }
+
+    @media (max-width: 720px){
+      input{ width: 100%; max-width: 100%; }
+      .controls{ width:100%; justify-content:flex-start; }
+      .field{ width:100%; }
+      select{ width:100%; }
+      button{ width:100%; }
     }
   </style>
 </head>
 <body>
+  <div class="wrap">
+    <section class="hero">
+      <div class="heroInner">
+        <div class="logo">
+          <svg class="emblem" viewBox="0 0 64 64" aria-hidden="true">
+            <defs>
+              <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0" stop-color="#d9b86b"/>
+                <stop offset="1" stop-color="#8b6a2b"/>
+              </linearGradient>
+            </defs>
+            <path d="M32 3l8 9 12 3-3 12 6 11-10 7-2 13-11-6-11 6-2-13-10-7 6-11-3-12 12-3z" fill="url(#g)" stroke="#5c4b2a" stroke-width="2"/>
+            <path d="M32 20l3 6 7 1-5 5 1 7-6-3-6 3 1-7-5-5 7-1z" fill="#2f2412" opacity="0.35"/>
+          </svg>
+          <div class="titleBlock">
+            <h1 id="uiTitle">📦 Delivery task search tool by Graczu</h1>
+            <div class="subtitle" id="uiSubtitle">Find delivery items, check weight and drop sources.</div>
+          </div>
+        </div>
 
-<h1>🗡️ Wyszukiwarka by Graczu 🛡️</h1>
+        <div class="controls">
+          <div class="field">
+            <input type="text" id="search" placeholder="Search item name..." />
+            <button id="btnSearch">Search</button>
+          </div>
+          <div class="field">
+            <select id="categoryFilter">
+              <option value="all">All categories</option>
+            </select>
+            <select id="langToggle" title="Language">
+              <option value="auto">Auto</option>
+              <option value="en">English</option>
+              <option value="pl">Polski</option>
+            </select>
+          </div>
+        </div>
+      </div>
 
-<div class="search-bar">
-  <input type="text" id="search" placeholder="Wpisz nazwę przedmiotu..." />
-  <button id="btnSearch">Search</button>
-</div>
+      <div class="status" id="status">
+        <span class="pill" id="pillLoaded">Loaded: 0</span>
+        <span class="pill" id="pillIcons">Missing icons: 0</span>
+        <span class="pill" id="pillShown">Showing: 0</span>
+      </div>
+    </section>
 
-<div id="status" style="max-width:600px; margin-bottom:10px; color:#6b5b3d;"></div>
-<div id="results"></div>
+    <main>
+      <div id="results"></div>
+    </main>
 
-<footer>
-  ⚔️ Powered by <strong>El Quattro</strong> • Tibia RPG Vibes ⚔️
-</footer>
+    <footer>
+      ⚔️ Powered by <strong>El Quattro</strong><br>
+      ❤️ If you like this tool, consider following my channel on <a href="https://kick.com/graczoholik" target="_blank" rel="noopener">Kick.com / graczoholik</a>
+    </footer>
+  </div>
 
-<script>
-  const searchInput = document.getElementById('search');
-  const resultsDiv = document.getElementById('results');
-  const btnSearch = document.getElementById('btnSearch');
+  <script>
+    const searchInput = document.getElementById('search');
+    const resultsDiv = document.getElementById('results');
+    const btnSearch = document.getElementById('btnSearch');
+    const categoryFilter = document.getElementById('categoryFilter');
+    const langToggle = document.getElementById('langToggle');
 
-  let items = [];
+    const pillLoaded = document.getElementById('pillLoaded');
+    const pillIcons = document.getElementById('pillIcons');
+    const pillShown = document.getElementById('pillShown');
 
-  function normalizeIconPath(p) {
-    if (!p) return 'icons/unknown.gif';
-    return String(p).trim().replace(/\\/g, '/'); // Windows -> web
-  }
+    const uiTitle = document.getElementById('uiTitle');
+    const uiSubtitle = document.getElementById('uiSubtitle');
 
-  fetch('items.json')
-    .then(res => res.json())
-    .then(data => {
-      const raw = Array.isArray(data) ? data : (data.items || []);
-      items = raw
-        .map(i => ({
-          name: String(i.name || i.Name || '').trim(),
-          category: (i.category || i.Category || 'Inne'),
-          weight: String(i.weight || i.Weight || i.waga || i.Waga || '-').trim(),
-          dropsFrom: Array.isArray(i.dropsFrom || i.drops_from)
-            ? (i.dropsFrom || i.drops_from).join(', ')
-            : String(i.dropsFrom || i.drops_from || i.Drop || i.drop || '-'),
-          icon: normalizeIconPath(i.icon || i.Icon || i.image || i.img)
-        }))
-        .filter(i => i.name.length > 0);
+    let items = [];
 
-      // status + pierwsza próbka do debugowania
-      const missingIcon = items.filter(x => !x.icon || x.icon === 'icons/unknown.gif').length;
-      document.getElementById('status').textContent = `Załadowano: ${items.length} • Brak ikony w danych: ${missingIcon}`;
-      console.log('Sample item:', items[0]);
-      renderResults(items);
-    })
-    .catch(err => {
-      resultsDiv.innerHTML = '<p>Błąd ładowania items.json</p>';
-      console.error(err);
-    });
+    const translations = {
+      en: {
+        title: '📦 Delivery task search tool by Graczu',
+        subtitle: 'Find delivery items, check weight and drop sources.',
+        searchPlaceholder: 'Search item name...',
+        searchBtn: 'Search',
+        categoryAll: 'All categories',
+        weight: 'Weight',
+        drops: 'Dropped by',
+        noResults: 'No results found',
+        loaded: 'Loaded',
+        missingIcons: 'Missing icons',
+        showing: 'Showing'
+      },
+      pl: {
+        title: '📦 Narzędzie wyszukiwania delivery task by Graczu',
+        subtitle: 'Znajdź przedmioty, sprawdź wagę i z jakich potworów wypadają.',
+        searchPlaceholder: 'Wpisz nazwę przedmiotu...',
+        searchBtn: 'Szukaj',
+        categoryAll: 'Wszystkie kategorie',
+        weight: 'Waga',
+        drops: 'Wypada z',
+        noResults: 'Brak wyników',
+        loaded: 'Załadowano',
+        missingIcons: 'Brak ikon',
+        showing: 'Wyświetlane'
+      }
+    };
 
-  function renderResults(list) {
-    resultsDiv.innerHTML = '';
-
-    if (!list || list.length === 0) {
-      resultsDiv.innerHTML = '<p>Brak wyników</p>';
-      return;
+    function getLang(){
+      if (langToggle.value === 'auto') {
+        const lang = (navigator.language || 'en').toLowerCase();
+        return lang.startsWith('pl') ? 'pl' : 'en';
+      }
+      return langToggle.value;
     }
 
-    const grouped = {};
-    list.forEach(item => {
-      if (!grouped[item.category]) grouped[item.category] = [];
-      grouped[item.category].push(item);
-    });
-
-    Object.keys(grouped).sort().forEach(category => {
-      const h = document.createElement('h2');
-      h.textContent = category;
-      resultsDiv.appendChild(h);
-
-      grouped[category]
-        .sort((a, b) => a.name.localeCompare(b.name))
-        .forEach(item => {
-          const div = document.createElement('div');
-          div.className = 'item';
-          div.innerHTML = `
-            <img src="${item.icon || 'icons/unknown.gif'}" class="icon" alt="${item.name}" onerror="this.onerror=null; this.src='icons/unknown.gif';">
-            <div>
-              <div class="name">${item.name}</div>
-              <div class="meta"><strong>Waga:</strong> ${item.weight} oz</div>
-              <div class="meta"><strong>Wypada z:</strong> ${item.dropsFrom}</div>
-            </div>
-          `;
-          resultsDiv.appendChild(div);
-        });
-    });
-  }
-
-  function runSearch() {
-    const q = searchInput.value.toLowerCase().trim();
-    if (!q) {
-      renderResults(items);
-      return;
+    function t(key){
+      const lang = getLang();
+      return (translations[lang] && translations[lang][key]) ? translations[lang][key] : key;
     }
-    const filtered = items.filter(i => i.name.toLowerCase().includes(q));
-    renderResults(filtered);
-  }
 
-  btnSearch.addEventListener('click', runSearch);
-  searchInput.addEventListener('input', runSearch);
-  searchInput.addEventListener('keydown', e => {
-    if (e.key === 'Enter') runSearch();
-  });
-</script>
+    function normalizeIconPath(p){
+      if (!p) return 'icons/unknown.gif';
+      // Avoid backslashes in source by using char code 92
+      const bslash = String.fromCharCode(92);
+      return String(p).trim().split(bslash).join('/');
+    }
 
+    function slugToIcon(name){
+      // fallback: create snake_case name.gif (matches your generator)
+      const cleaned = String(name)
+        .toLowerCase()
+        .replace(/[’']/g, '')
+        .replace(/[^a-z0-9 ]/g, ' ')
+        .split(' ')
+        .filter(Boolean)
+        .join('_');
+      return 'icons/' + cleaned + '.gif';
+    }
+
+    function applyLanguage(){
+      uiTitle.textContent = t('title');
+      uiSubtitle.textContent = t('subtitle');
+      searchInput.placeholder = t('searchPlaceholder');
+      btnSearch.textContent = t('searchBtn');
+      const allOpt = categoryFilter.querySelector('option[value="all"]');
+      if (allOpt) allOpt.textContent = t('categoryAll');
+      runSearch();
+    }
+
+    function setStatus(loadedCount, missingIconsCount, shownCount){
+      pillLoaded.textContent = `${t('loaded')}: ${loadedCount}`;
+      pillIcons.textContent = `${t('missingIcons')}: ${missingIconsCount}`;
+      pillShown.textContent = `${t('showing')}: ${shownCount}`;
+    }
+
+    function populateCategories(){
+      const keep = categoryFilter.querySelector('option[value="all"]');
+      categoryFilter.innerHTML = '';
+      categoryFilter.appendChild(keep);
+
+      const cats = Array.from(new Set(items.map(i => i.category))).sort((a,b)=>a.localeCompare(b));
+      cats.forEach(c => {
+        const opt = document.createElement('option');
+        opt.value = c;
+        opt.textContent = c;
+        categoryFilter.appendChild(opt);
+      });
+    }
+
+    function renderResults(list){
+      resultsDiv.innerHTML = '';
+
+      if (!list || list.length === 0){
+        resultsDiv.innerHTML = `<p>${t('noResults')}</p>`;
+        setStatus(items.length, items.filter(x => x.icon === 'icons/unknown.gif').length, 0);
+        return;
+      }
+
+      const grouped = {};
+      list.forEach(item => { (grouped[item.category] ||= []).push(item); });
+
+      Object.keys(grouped).sort((a,b)=>a.localeCompare(b)).forEach(category => {
+        const h = document.createElement('h2');
+        h.textContent = category;
+        resultsDiv.appendChild(h);
+
+        grouped[category]
+          .sort((a,b)=>a.name.localeCompare(b.name))
+          .forEach(item => {
+            const div = document.createElement('div');
+            div.className = 'item';
+            div.innerHTML = `
+              <img src="${item.icon}" class="icon" alt="${item.name}" onerror="this.onerror=null; this.src='icons/unknown.gif';">
+              <div>
+                <div class="name">${item.name}</div>
+                <div class="meta"><strong>${t('weight')}:</strong> ${item.weight} oz</div>
+                <div class="meta"><strong>${t('drops')}:</strong> ${item.dropsFrom}</div>
+              </div>
+            `;
+            resultsDiv.appendChild(div);
+          });
+      });
+
+      setStatus(items.length, items.filter(x => x.icon === 'icons/unknown.gif').length, list.length);
+    }
+
+    function runSearch(){
+      const q = searchInput.value.toLowerCase().trim();
+      const cat = categoryFilter.value;
+
+      let filtered = items;
+      if (cat !== 'all') filtered = filtered.filter(i => i.category === cat);
+      if (q) filtered = filtered.filter(i => i.name.toLowerCase().includes(q));
+
+      renderResults(filtered);
+    }
+
+    // Events
+    btnSearch.addEventListener('click', runSearch);
+    searchInput.addEventListener('input', runSearch);
+    searchInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') runSearch(); });
+    categoryFilter.addEventListener('change', runSearch);
+    langToggle.addEventListener('change', applyLanguage);
+
+    // Load data
+    fetch('items.json')
+      .then(res => res.json())
+      .then(data => {
+        const raw = Array.isArray(data) ? data : (data.items || []);
+
+        items = raw
+          .map(i => ({
+            name: String(i.name || i.Name || '').trim(),
+            category: String(i.category || i.Category || 'Inne').trim(),
+            weight: String(i.weight || i.Weight || i.waga || i.Waga || '-').trim(),
+            dropsFrom: Array.isArray(i.dropsFrom) ? i.dropsFrom.join(', ') : String(i.dropsFrom || i.drops_from || i.Drop || i.drop || '-'),
+            icon: normalizeIconPath(i.icon || i.Icon || i.image || i.img) || 'icons/unknown.gif'
+          }))
+          .filter(i => i.name.length > 0)
+          .map(i => ({ ...i, icon: (i.icon && i.icon !== 'icons/unknown.gif') ? i.icon : slugToIcon(i.name) }));
+
+        populateCategories();
+        applyLanguage();
+        renderResults(items); // show all by default
+      })
+      .catch(err => {
+        console.error(err);
+        resultsDiv.innerHTML = '<p>Failed to load items.json</p>';
+      });
+  </script>
 </body>
 </html>
