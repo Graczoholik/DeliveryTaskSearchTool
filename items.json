@@ -982,7 +982,7 @@
     "dropsFrom": [
       "Crusader"
     ],
-    "icon": "icons/cookbook.gif"
+    "icon": "icons/cookbook_fairy.gif"
   },
   {
     "name": "Coral Branch",
@@ -1041,7 +1041,7 @@
     "dropsFrom": [
       "Shrieking Cry-Stal"
     ],
-    "icon": "icons/crystal.gif"
+    "icon": "icons/cry-stal.gif"
   },
   {
     "name": "Crystal Bone",
@@ -2744,7 +2744,7 @@
     "dropsFrom": [
       "Stonerefiner"
     ],
-    "icon": "icons/halfdigested_stones.gif"
+    "icon": "icons/half-digested_stones.gif"
   },
   {
     "name": "Half-Eaten Brain",
@@ -2753,7 +2753,7 @@
     "dropsFrom": [
       "Zombie"
     ],
-    "icon": "icons/halfeaten_brain.gif"
+    "icon": "icons/half-eaten_brain.gif"
   },
   {
     "name": "Harpy Feathers",
@@ -2977,7 +2977,7 @@
       "Rage Squid",
       "Squid Warden"
     ],
-    "icon": "icons/inkwell.gif"
+    "icon": "icons/inkwell_black.gif"
   },
   {
     "name": "Instable Proto Matter",
@@ -5538,7 +5538,7 @@
     "dropsFrom": [
       "Two-Headed Turtle"
     ],
-    "icon": "icons/twoheaded_turtle_heads.gif"
+    "icon": "icons/two-headed_turtle_heads.gif"
   },
   {
     "name": "Undertaker Fangs",
@@ -6035,3 +6035,4 @@
   }
 
 ]
+
