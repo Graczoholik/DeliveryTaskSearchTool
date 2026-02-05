@@ -1,1250 +1,6028 @@
 [
   {
-    "name": "Afflicted",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Blue Scales",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Amber",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Ancient Belt",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Basalt",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Bashmu",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Blemished",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Spawn",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Bloated",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Blood",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Blood Tincture",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Bloodshot",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Blue Goanna",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Bone",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Bonecarving",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Book of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Necromantic",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Book with a",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Book with an",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Bowl of Terror",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Brinebrute",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Broken Drak en",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Broken",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Gladiator",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Mitmah",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Broodrider",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Bulltaur Armor",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Bundle of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Carnisylvan",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Carnivostrich",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Cave Devourer",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Chasm Spawn",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Cheesy",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Cluster of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Crystallized",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Colourful",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Colourful Snail",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Crab Man",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Cracked",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Crawler's",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Crystal",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Crystal of the",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Crystalline",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Cursed",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Shoulder",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Damaged",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Dand elion",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Dang erous",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Dark  Obsidian",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Dark light",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Decayed",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Deepling",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Breaktime",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Guard Belt",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Deepworm",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Demonic",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Diam ond",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Diremaw",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Drag olisk",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Drag on",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Priest's",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Drak en",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Dream",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Harbinger",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Elder Bonelord",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Elven Astral",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Emerald",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Empty Honey",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "GlassPojemniki na",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Encrypted",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Ensouled",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Essence of a",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Execowtioner",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Eye of a",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Eye of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Eyeless",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Devourer",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Flask of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Frazzle",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Frozen",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Gauze",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Ghastly",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Girlish Hair",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Girtablilu",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Warrior",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Glob of Acid",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Glooth",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Warden",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Golden Lotus",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Golden Sun",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Grappling",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Green",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Guardian",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Half-Digested",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Half-Eaten",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Harpy",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Headpecker",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Heart",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Heavy",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Hellhound",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "High Guard",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Humongous",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Idol of the",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Instable Proto",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Key to the",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Drowned",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Kongra's",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Lancer Beetle",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Lavafungus",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Lavaworm",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Lightning",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Lion Cloak",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Lost Basher's",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Magma",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Makara",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Mammoth",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Mantosaurus",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Mega Drag on",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Mercenary",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Sting",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Mercurial",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Molten Drag on",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Mouldy",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Mummified",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Mutated Bat",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Mutated Rat",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Naga Archer",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Naga Warrior",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Night Harpy",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Nighthunter",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Nimmersatt's",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Shaman",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Old Girtablilu",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Orcish",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Ornate",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Pair of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Hellflayer",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Piece of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Drac onian",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Piece of Hell",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Souldespoiler",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Plasmatic",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Pool of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Pot of Orcish",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Prehemoth",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Pressed",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Quara",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Red Goanna",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Resinous Fish",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Rhindeer",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Ritual Bone",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Rotten Piece",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Sandcrawler",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Scale of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Scorpion",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Scroll of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Shamanic",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Shimmering",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Shatterer",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Silencer",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Resonating",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Silken",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Silver Moon",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Single Human",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Skullcracker",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Slimy Leaf",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Small Flask of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Small",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Small Treasure",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Small Tropical",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Sparkion",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Spellbook of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Spellsinger's",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Spellweaver's",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Spiked Iron",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Stag",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Stampor",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Stonerefiner's",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Strange",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Streaked",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Sulphider",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Sulphur",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Sulphurous",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Swampling",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Swarmer",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Tail of",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Terramite",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Trapped Bad",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Tunnel Tyrant",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Two-Headed",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Undertaker",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Vampire's",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Volatile Proto",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Wardragon",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Weaver's",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Werebadger",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Werebear",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Wereboar",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Werecrocodile",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Werehyaena",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Werepanther",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Weretiger",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Widow's",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Wimp Tooth",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Wooden",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Yapunac",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Ruin",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
-  },
-  {
-    "name": "Zaogun",
-    "category": "Inne",
-    "description": "",
-    "icon": ""
+    "name": "Afflicted Strider Worms",
+    "category": "Części ciał",
+    "weight": "1.70",
+    "dropsFrom": [
+      "Afflicted Strider"
+    ],
+    "icon": "icons/afflicted_strider_worms.gif"
+  },
+  {
+    "name": "Alloy Legs",
+    "category": "Nogawice",
+    "weight": "45.00",
+    "dropsFrom": [
+      "Brachiodemon",
+      "Bulltaur Alchemist",
+      "Control Tower",
+      "Glooth Battery",
+      "Metal Gargoyle",
+      "Sorcerer's Apparition",
+      "Ghulosh",
+      "Katex Blood Tongue",
+      "Yirkas Blue Scales"
+    ],
+    "icon": "icons/alloy_legs.gif"
+  },
+  {
+    "name": "Amber Souvenir",
+    "category": "Części ciał",
+    "weight": "0.25",
+    "dropsFrom": [
+      "Quara Looter",
+      "Quara Plunderer",
+      "Quara Raider"
+    ],
+    "icon": "icons/amber_souvenir.gif"
+  },
+  {
+    "name": "Ancient Belt Buckle",
+    "category": "Części ciał",
+    "weight": "2.50",
+    "dropsFrom": [
+      "Broken Shaper",
+      "Twisted Shaper"
+    ],
+    "icon": "icons/ancient_belt_buckle.gif"
+  },
+  {
+    "name": "Ancient Stone",
+    "category": "Części ciał",
+    "weight": "1.60",
+    "dropsFrom": [
+      "Animated Ogre Brute",
+      "Eternal Guardian",
+      "Museum Stone Golem",
+      "Ogre Brute",
+      "Stone Devourer",
+      "Stone Golem",
+      "Ancient Spawn of Morgathla",
+      "The Last Lore Keeper",
+      "The Source of Corruption"
+    ],
+    "icon": "icons/ancient_stone.gif"
+  },
+  {
+    "name": "Angelic Axe",
+    "category": "Topory",
+    "weight": "56.00",
+    "dropsFrom": [
+      "Humongous Fungus",
+      "Lucifuga Aranea",
+      "Mutated Tiger",
+      "Weretiger",
+      "Feroxa",
+      "Weakened Shlorg"
+    ],
+    "icon": "icons/angelic_axe.gif"
+  },
+  {
+    "name": "Badger Boots",
+    "category": "Buty",
+    "weight": "12.00",
+    "dropsFrom": [
+      "Werebadger",
+      "Feroxa",
+      "Sharpclaw",
+      "The Baron from Below"
+    ],
+    "icon": "icons/badger_boots.gif"
+  },
+  {
+    "name": "Banana Sash",
+    "category": "Części ciał",
+    "weight": "0.68",
+    "dropsFrom": [
+      "Merlkin",
+      "Sibang"
+    ],
+    "icon": "icons/banana_sash.gif"
+  },
+  {
+    "name": "Basalt Crumbs",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Darklight Emitter",
+      "Wandering Pillar"
+    ],
+    "icon": "icons/basalt_crumbs.gif"
+  },
+  {
+    "name": "Basalt Fetish",
+    "category": "Części ciał",
+    "weight": "2.10",
+    "dropsFrom": [
+      "Lost Basher",
+      "Lost Exile",
+      "Lost Husher",
+      "Lost Thrower"
+    ],
+    "icon": "icons/basalt_fetish.gif"
+  },
+  {
+    "name": "Basalt Figurine",
+    "category": "Części ciał",
+    "weight": "2.10",
+    "dropsFrom": [
+      "Lost Basher",
+      "Lost Exile",
+      "Lost Husher",
+      "Lost Thrower"
+    ],
+    "icon": "icons/basalt_figurine.gif"
+  },
+  {
+    "name": "Bashmu Fang",
+    "category": "Części ciał",
+    "weight": "1.50",
+    "dropsFrom": [
+      "Bashmu",
+      "Juvenile Bashmu"
+    ],
+    "icon": "icons/bashmu_fang.gif"
+  },
+  {
+    "name": "Bashmu Feather",
+    "category": "Części ciał",
+    "weight": "2.50",
+    "dropsFrom": [
+      "Bashmu",
+      "Juvenile Bashmu"
+    ],
+    "icon": "icons/bashmu_feather.gif"
+  },
+  {
+    "name": "Bashmu Tongue",
+    "category": "Części ciał",
+    "weight": "2.50",
+    "dropsFrom": [
+      "Bashmu",
+      "Juvenile Bashmu"
+    ],
+    "icon": "icons/bashmu_tongue.gif"
+  },
+  {
+    "name": "Battle Shield",
+    "category": "Tarcze",
+    "weight": "62.00",
+    "dropsFrom": [
+      "Animated Cyclops",
+      "Assassin",
+      "Cyclops",
+      "Cyclops Drone",
+      "Cyclops Smith",
+      "Demon Skeleton",
+      "Dwarf Guard",
+      "Elf Overseer",
+      "Frost Giant",
+      "Frost Giantess",
+      "Gargoyle",
+      "Hellspawn",
+      "Memory of a Dwarf",
+      "Memory of a Pirate",
+      "Minotaur Guard",
+      "Mutated Bat",
+      "Orc Rider",
+      "Pirate Buccaneer",
+      "Undead Minion",
+      "War Golem",
+      "Foreman Kneebiter",
+      "General Murius",
+      "The Horned Fox"
+    ],
+    "icon": "icons/battle_shield.gif"
+  },
+  {
+    "name": "Black Shield",
+    "category": "Tarcze",
+    "weight": "42.00",
+    "dropsFrom": [
+      "Animated Mummy",
+      "Candy Horror",
+      "Furious Scorpion",
+      "Gloom Maw",
+      "Lost Basher",
+      "Lost Berserker",
+      "Magma Crawler",
+      "Mummy",
+      "Mutated Bat",
+      "Priestess",
+      "Sandstone Scorpion",
+      "Thanatursus",
+      "Werehyaena Shaman",
+      "Wiggler",
+      "Bruise Payne"
+    ],
+    "icon": "icons/black_shield.gif"
+  },
+  {
+    "name": "Blemished Spawn Abdomen",
+    "category": "Części ciał",
+    "weight": "2.70",
+    "dropsFrom": [
+      "Blemished Spawn"
+    ],
+    "icon": "icons/blemished_spawn_abdomen.gif"
+  },
+  {
+    "name": "Blemished Spawn Head",
+    "category": "Części ciał",
+    "weight": "1.60",
+    "dropsFrom": [
+      "Blemished Spawn"
+    ],
+    "icon": "icons/blemished_spawn_head.gif"
+  },
+  {
+    "name": "Blemished Spawn Tail",
+    "category": "Części ciał",
+    "weight": "1.60",
+    "dropsFrom": [
+      "Blemished Spawn"
+    ],
+    "icon": "icons/blemished_spawn_tail.gif"
+  },
+  {
+    "name": "Bloated Maggot",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Bloated Man-Maggot"
+    ],
+    "icon": "icons/bloated_maggot.gif"
+  },
+  {
+    "name": "Blood Amulet",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Dworc Shadowstalker"
+    ],
+    "icon": "icons/blood_amulet.gif"
+  },
+  {
+    "name": "Blood Hood",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Norcferatu Nightweaver"
+    ],
+    "icon": "icons/blood_hood.gif"
+  },
+  {
+    "name": "Blood Preservation",
+    "category": "Części ciał",
+    "weight": "0.80",
+    "dropsFrom": [
+      "Nightfiend",
+      "Vampire",
+      "Vampire Bride",
+      "Vampire Viscount",
+      "Vicious Manbat",
+      "Arachir The Ancient One",
+      "Arthei",
+      "Boreth",
+      "Diblis The Fair",
+      "Lersatio",
+      "The Pale Count",
+      "Vladrukh"
+    ],
+    "icon": "icons/blood_preservation.gif"
+  },
+  {
+    "name": "Blood Tincture in a Vial",
+    "category": "Części ciał",
+    "weight": "6.30",
+    "dropsFrom": [
+      "Blood Hand",
+      "Blood Priest"
+    ],
+    "icon": "icons/blood_tincture_in_a_vial.gif"
+  },
+  {
+    "name": "Bloodshot Giant Eye",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Orclops Bloodbreaker"
+    ],
+    "icon": "icons/bloodshot_giant_eye.gif"
+  },
+  {
+    "name": "Blue Goanna Scale",
+    "category": "Części ciał",
+    "weight": "0.90",
+    "dropsFrom": [
+      "Young Goanna",
+      "Yirkas Blue Scales"
+    ],
+    "icon": "icons/blue_goanna_scale.gif"
+  },
+  {
+    "name": "Boar Man Hoof",
+    "category": "Części ciał",
+    "weight": "2.10",
+    "dropsFrom": [
+      "Boar Man"
+    ],
+    "icon": "icons/boar_man_hoof.gif"
+  },
+  {
+    "name": "Boggy Dreads",
+    "category": "Części ciał",
+    "weight": "1.69",
+    "dropsFrom": [
+      "Bog Raider",
+      "Weakened Shlorg"
+    ],
+    "icon": "icons/boggy_dreads.gif"
+  },
+  {
+    "name": "Bola",
+    "category": "Części ciał",
+    "weight": "5.00",
+    "dropsFrom": [
+      "Corym Charlatan",
+      "Corym Skirmisher",
+      "Corym Vanguard"
+    ],
+    "icon": "icons/bola.gif"
+  },
+  {
+    "name": "Bone Club",
+    "category": "Obuchy",
+    "weight": "39.00",
+    "dropsFrom": [
+      "Bonebeast",
+      "Corrupted Skeleton",
+      "Demon (Goblin)",
+      "Dreadbeast",
+      "Goblin",
+      "Goblin Assassin",
+      "Goblin Leader",
+      "Goblin Scavenger",
+      "Muglex Clan Scavenger",
+      "Orger",
+      "Pirate Skeleton",
+      "Troll-Trained Salamander",
+      "Munster",
+      "Necropharus",
+      "Salamander Trainer"
+    ],
+    "icon": "icons/bone_club.gif"
+  },
+  {
+    "name": "Bone Fetish",
+    "category": "Części ciał",
+    "weight": "1.60",
+    "dropsFrom": [
+      "Animated Ogre Shaman",
+      "Lost Basher",
+      "Lost Exile",
+      "Lost Husher",
+      "Ogre Sage",
+      "Ogre Shaman"
+    ],
+    "icon": "icons/bone_fetish.gif"
+  },
+  {
+    "name": "Bone Fibula",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Orclops Bloodbreaker"
+    ],
+    "icon": "icons/bone_fibula.gif"
+  },
+  {
+    "name": "Bone Rattle",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Dworc Shadowstalker"
+    ],
+    "icon": "icons/bone_rattle.gif"
+  },
+  {
+    "name": "Bone Shoulderplate",
+    "category": "Części ciał",
+    "weight": "2.20",
+    "dropsFrom": [
+      "Draken Warmaster"
+    ],
+    "icon": "icons/bone_shoulderplate.gif"
+  },
+  {
+    "name": "Bone Toothpick",
+    "category": "Części ciał",
+    "weight": "20.00",
+    "dropsFrom": [
+      "Orclops Bloodbreaker",
+      "Orclops Doomhauler",
+      "Orclops Ravager",
+      "Skeleton Elite Warrior"
+    ],
+    "icon": "icons/bone_toothpick.gif"
+  },
+  {
+    "name": "Bonebreaker",
+    "category": "Obuchy",
+    "weight": "120.00",
+    "dropsFrom": [
+      "Animated Ogre Brute",
+      "Armadile",
+      "Diamond Servant",
+      "Diamond Servant Replica",
+      "Memory of an Ogre",
+      "Ogre Brute",
+      "War Golem",
+      "Werecrocodile",
+      "Werewolf",
+      "Worker Golem",
+      "Ancient Spawn of Morgathla",
+      "Darkfang",
+      "Feroxa",
+      "Ghazbaran",
+      "Hemming",
+      "Leviathan",
+      "Outburst",
+      "Ragiaz",
+      "The Shatterer",
+      "The Unarmored Voidborn",
+      "World Devourer",
+      "Zavarash"
+    ],
+    "icon": "icons/bonebreaker.gif"
+  },
+  {
+    "name": "Bonecarving Knife",
+    "category": "Części ciał",
+    "weight": "1.20",
+    "dropsFrom": [
+      "Lost Basher",
+      "Lost Exile",
+      "Lost Husher"
+    ],
+    "icon": "icons/bonecarving_knife.gif"
+  },
+  {
+    "name": "Bony Tail",
+    "category": "Części ciał",
+    "weight": "0.92",
+    "dropsFrom": [
+      "Bonebeast",
+      "Ribstride"
+    ],
+    "icon": "icons/bony_tail.gif"
+  },
+  {
+    "name": "Book of Necromantic Rituals",
+    "category": "Części ciał",
+    "weight": "3.58",
+    "dropsFrom": [
+      "Blood Hand",
+      "Blood Priest",
+      "Floating Savant",
+      "Necromancer",
+      "Necromancer Servant",
+      "Shadow Pupil",
+      "Necropharus"
+    ],
+    "icon": "icons/book_of_necromantic_rituals.gif"
+  },
+  {
+    "name": "Book Page",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Biting Book",
+      "Burning Book",
+      "Cursed Book",
+      "Energetic Book",
+      "Energuardian of Tales",
+      "Guardian of Tales",
+      "Icecold Book",
+      "Knowledge Elemental"
+    ],
+    "icon": "icons/book_page.gif"
+  },
+  {
+    "name": "Book with a Dragon",
+    "category": "Części ciał",
+    "weight": "8.00",
+    "dropsFrom": [
+      "Bramble Wyrmling",
+      "Cinder Wyrmling",
+      "Inkwing"
+    ],
+    "icon": "icons/book_with_a_dragon.gif"
+  },
+  {
+    "name": "Book with an Hourglass",
+    "category": "Części ciał",
+    "weight": "8.00",
+    "dropsFrom": [
+      "Headwalker"
+    ],
+    "icon": "icons/book_with_an_hourglass.gif"
+  },
+  {
+    "name": "Bowl of Terror Sweat",
+    "category": "Części ciał",
+    "weight": "3.60",
+    "dropsFrom": [
+      "Feversleep",
+      "Shiversleep",
+      "Terrorsleep"
+    ],
+    "icon": "icons/bowl_of_terror_sweat.gif"
+  },
+  {
+    "name": "Brigadeiro",
+    "category": "Części ciał",
+    "weight": "0.10",
+    "dropsFrom": [
+      "Candy Horror",
+      "Sugar Daddy"
+    ],
+    "icon": "icons/brigadeiro.gif"
+  },
+  {
+    "name": "Brinebrute Claw",
+    "category": "Części ciał",
+    "weight": "2.40",
+    "dropsFrom": [
+      "Brinebrute Inferniarch",
+      "Malvaroth"
+    ],
+    "icon": "icons/brinebrute_claw.gif"
+  },
+  {
+    "name": "Broadsword",
+    "category": "Miecze",
+    "weight": "52.50",
+    "dropsFrom": [
+      "Afflicted Strider",
+      "Dragon",
+      "Orc Leader",
+      "Renegade Orc",
+      "Demodras",
+      "Dragon Hoard",
+      "Grand Mother Foulscale"
+    ],
+    "icon": "icons/broadsword.gif"
+  },
+  {
+    "name": "Broken Draken Mail",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Draken Elite",
+      "Paiz the Pauperizer"
+    ],
+    "icon": "icons/broken_draken_mail.gif"
+  },
+  {
+    "name": "Broken Gladiator Shield",
+    "category": "Części ciał",
+    "weight": "6.40",
+    "dropsFrom": [
+      "Undead Elite Gladiator",
+      "Undead Gladiator"
+    ],
+    "icon": "icons/broken_gladiator_shield.gif"
+  },
+  {
+    "name": "Broken Halberd",
+    "category": "Części ciał",
+    "weight": "2.10",
+    "dropsFrom": [
+      "Lizard Legionnaire"
+    ],
+    "icon": "icons/broken_halberd.gif"
+  },
+  {
+    "name": "Broken Mitmah Necklace",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Atab",
+      "Mitmah Scout",
+      "Mitmah Vanguard"
+    ],
+    "icon": "icons/broken_mitmah_necklace.gif"
+  },
+  {
+    "name": "Broken Slicer",
+    "category": "Części ciał",
+    "weight": "1.40",
+    "dropsFrom": [
+      "Draken Elite",
+      "Paiz the Pauperizer"
+    ],
+    "icon": "icons/broken_slicer.gif"
+  },
+  {
+    "name": "Broken Throwing Axe",
+    "category": "Części ciał",
+    "weight": "11.00",
+    "dropsFrom": [
+      "Lost Thrower"
+    ],
+    "icon": "icons/broken_throwing_axe.gif"
+  },
+  {
+    "name": "Broodrider Saddle",
+    "category": "Części ciał",
+    "weight": "3.90",
+    "dropsFrom": [
+      "Broodrider Inferniarch"
+    ],
+    "icon": "icons/broodrider_saddle.gif"
+  },
+  {
+    "name": "Buckle",
+    "category": "Zbroje",
+    "weight": "75.00",
+    "dropsFrom": [
+      "Lost Basher",
+      "Lost Exile",
+      "Lost Husher",
+      "Lost Thrower",
+      "Mycobiontic Beetle",
+      "Spiky Carnivor"
+    ],
+    "icon": "icons/buckle.gif"
+  },
+  {
+    "name": "Bulltaur Armor Scrap",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Bulltaur Brute"
+    ],
+    "icon": "icons/bulltaur_armor_scrap.gif"
+  },
+  {
+    "name": "Bulltaur Hoof",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Bulltaur Brute"
+    ],
+    "icon": "icons/bulltaur_hoof.gif"
+  },
+  {
+    "name": "Bulltaur Horn",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Bulltaur Alchemist",
+      "Bulltaur Brute",
+      "Bulltaur Forgepriest"
+    ],
+    "icon": "icons/bulltaur_horn.gif"
+  },
+  {
+    "name": "Bundle of Cursed Straw",
+    "category": "Części ciał",
+    "weight": "2.27",
+    "dropsFrom": [
+      "Blightwalker"
+    ],
+    "icon": "icons/bundle_of_cursed_straw.gif"
+  },
+  {
+    "name": "Carnisylvan Bark",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Dark Carnisylvan",
+      "Hulking Carnisylvan",
+      "Poisonous Carnisylvan"
+    ],
+    "icon": "icons/carnisylvan_bark.gif"
+  },
+  {
+    "name": "Carnisylvan Finger",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Dark Carnisylvan",
+      "Hulking Carnisylvan",
+      "Poisonous Carnisylvan"
+    ],
+    "icon": "icons/carnisylvan_finger.gif"
+  },
+  {
+    "name": "Carnivostrich Feather",
+    "category": "Części ciał",
+    "weight": "1.20",
+    "dropsFrom": [
+      "Carnivostrich"
+    ],
+    "icon": "icons/carnivostrich_feather.gif"
+  },
+  {
+    "name": "Cat's Paw",
+    "category": "Części ciał",
+    "weight": "10.00",
+    "dropsFrom": [
+      "Dark Torturer",
+      "Hemming",
+      "Mr. Punish",
+      "The Scourge of Oblivion"
+    ],
+    "icon": "icons/cats_paw.gif"
+  },
+  {
+    "name": "Cave Devourer Eyes",
+    "category": "Części ciał",
+    "weight": "0.80",
+    "dropsFrom": [
+      "Cave Devourer"
+    ],
+    "icon": "icons/cave_devourer_eyes.gif"
+  },
+  {
+    "name": "Cave Devourer Legs",
+    "category": "Części ciał",
+    "weight": "2.40",
+    "dropsFrom": [
+      "Cave Devourer"
+    ],
+    "icon": "icons/cave_devourer_legs.gif"
+  },
+  {
+    "name": "Cave Devourer Maw",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Cave Devourer"
+    ],
+    "icon": "icons/cave_devourer_maw.gif"
+  },
+  {
+    "name": "Centipede Leg",
+    "category": "Części ciał",
+    "weight": "0.68",
+    "dropsFrom": [
+      "Centipede"
+    ],
+    "icon": "icons/centipede_leg.gif"
+  },
+  {
+    "name": "Chain Leash",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Gloom Maw"
+    ],
+    "icon": "icons/chain_leash.gif"
+  },
+  {
+    "name": "Chaos Mace",
+    "category": "Obuchy",
+    "weight": "63.00",
+    "dropsFrom": [
+      "Animated Moohtant",
+      "Destroyer",
+      "Infernal Phantom",
+      "Juvenile Bashmu",
+      "Lost Basher",
+      "Lost Berserker",
+      "Moohtant",
+      "Nightstalker",
+      "Norcferatu Heartless",
+      "Alptramun",
+      "Anomaly",
+      "Bretzecutioner",
+      "Duke Krule",
+      "Ferumbras",
+      "Ferumbras Mortal Shell",
+      "Gorzindel",
+      "Izcandar Champion of Summer",
+      "Izcandar Champion of Winter",
+      "Izcandar the Banished",
+      "Malofur Mangrinder",
+      "Maxxenius",
+      "Outburst",
+      "Plagueroot",
+      "Rupture",
+      "Shulgrax",
+      "Sir Valorcrest",
+      "Tarbaz",
+      "The Nightmare Beast",
+      "The Pale Count",
+      "The Percht Queen",
+      "The Scourge of Oblivion",
+      "The Shatterer",
+      "Utua Stone Sting",
+      "Weakened Shlorg"
+    ],
+    "icon": "icons/chaos_mace.gif"
+  },
+  {
+    "name": "Chasm Spawn Abdomen",
+    "category": "Części ciał",
+    "weight": "2.70",
+    "dropsFrom": [
+      "Chasm Spawn"
+    ],
+    "icon": "icons/chasm_spawn_abdomen.gif"
+  },
+  {
+    "name": "Chasm Spawn Head",
+    "category": "Części ciał",
+    "weight": "1.60",
+    "dropsFrom": [
+      "Chasm Spawn"
+    ],
+    "icon": "icons/chasm_spawn_head.gif"
+  },
+  {
+    "name": "Chasm Spawn Tail",
+    "category": "Części ciał",
+    "weight": "1.60",
+    "dropsFrom": [
+      "Chasm Spawn"
+    ],
+    "icon": "icons/chasm_spawn_tail.gif"
+  },
+  {
+    "name": "Cheese Cutter",
+    "category": "Części ciał",
+    "weight": "0.45",
+    "dropsFrom": [
+      "Corym Charlatan",
+      "Corym Skirmisher",
+      "Corym Vanguard"
+    ],
+    "icon": "icons/cheese_cutter.gif"
+  },
+  {
+    "name": "Cheesy Figurine",
+    "category": "Części ciał",
+    "weight": "0.75",
+    "dropsFrom": [
+      "Cobra Scout",
+      "Corym Charlatan",
+      "Corym Skirmisher",
+      "Corym Vanguard"
+    ],
+    "icon": "icons/cheesy_figurine.gif"
+  },
+  {
+    "name": "Cluster of Crystallized Death",
+    "category": "Części ciał",
+    "weight": "10.00",
+    "dropsFrom": [
+      "Creepy Crawler",
+      "Crypt Construct",
+      "Crypt Fiend"
+    ],
+    "icon": "icons/cluster_of_crystallized_death.gif"
+  },
+  {
+    "name": "Cobra Crest",
+    "category": "Części ciał",
+    "weight": "1.70",
+    "dropsFrom": [
+      "Cobra Assassin",
+      "Cobra Scout",
+      "Cobra Vizier",
+      "Custodian",
+      "Gaffir",
+      "Guard Captain Quaid"
+    ],
+    "icon": "icons/cobra_crest.gif"
+  },
+  {
+    "name": "Colourful Feather",
+    "category": "Części ciał",
+    "weight": "0.36",
+    "dropsFrom": [
+      "Iks Yapunac",
+      "Terror Bird"
+    ],
+    "icon": "icons/colourful_feather.gif"
+  },
+  {
+    "name": "Colourful Snail Shell",
+    "category": "Części ciał",
+    "weight": "1.70",
+    "dropsFrom": [
+      "Nymph",
+      "Pixie",
+      "Swan Maiden"
+    ],
+    "icon": "icons/colourful_snail_shell.gif"
+  },
+  {
+    "name": "Combat Knife",
+    "category": "Miecze",
+    "weight": "8.70",
+    "dropsFrom": [
+      "Assassin",
+      "Enraged Soul",
+      "Foam Stalker",
+      "Ghost",
+      "Goggle Cake",
+      "Orger",
+      "Smuggler",
+      "Tarnished Spirit",
+      "Venerable Foam Stalker",
+      "Werehyaena",
+      "White Lion",
+      "Ancient Lion Knight",
+      "General Murius",
+      "The Horned Fox"
+    ],
+    "icon": "icons/combat_knife.gif"
+  },
+  {
+    "name": "Compound Eye",
+    "category": "Części ciał",
+    "weight": "1.65",
+    "dropsFrom": [
+      "Crawler",
+      "Hive Overseer",
+      "Insectoid Worker",
+      "Kollos",
+      "Spidris",
+      "Spidris Elite",
+      "Spitter",
+      "Swarmer",
+      "Waspoid",
+      "Chopper",
+      "Fleshslicer",
+      "Maw",
+      "Mindmasher",
+      "Rotspit",
+      "Shadowstalker",
+      "The Hungerer",
+      "The Mean Masher"
+    ],
+    "icon": "icons/compound_eye.gif"
+  },
+  {
+    "name": "Cookbook",
+    "category": "Części ciał",
+    "weight": "8.00",
+    "dropsFrom": [
+      "Crusader"
+    ],
+    "icon": "icons/cookbook.gif"
+  },
+  {
+    "name": "Coral Branch",
+    "category": "Części ciał",
+    "weight": "1.10",
+    "dropsFrom": [
+      "Foam Stalker",
+      "Venerable Foam Stalker"
+    ],
+    "icon": "icons/coral_branch.gif"
+  },
+  {
+    "name": "Cowbell",
+    "category": "Części ciał",
+    "weight": "4.00",
+    "dropsFrom": [
+      "Minotaur Amazon",
+      "Minotaur Cult Follower",
+      "Minotaur Cult Prophet"
+    ],
+    "icon": "icons/cowbell.gif"
+  },
+  {
+    "name": "Crab Man Claws",
+    "category": "Części ciał",
+    "weight": "2.30",
+    "dropsFrom": [
+      "Crape Man"
+    ],
+    "icon": "icons/crab_man_claws.gif"
+  },
+  {
+    "name": "Cracked Alabaster Vase",
+    "category": "Części ciał",
+    "weight": "4.50",
+    "dropsFrom": [
+      "Broken Shaper",
+      "Shaper Matriarch",
+      "Twisted Shaper"
+    ],
+    "icon": "icons/cracked_alabaster_vase.gif"
+  },
+  {
+    "name": "Crawler's Essence",
+    "category": "Części ciał",
+    "weight": "0.45",
+    "dropsFrom": [
+      "Branchy Crawler"
+    ],
+    "icon": "icons/crawlers_essence.gif"
+  },
+  {
+    "name": "Cry-Stal",
+    "category": "Kosztowności",
+    "weight": "9.70",
+    "dropsFrom": [
+      "Shrieking Cry-Stal"
+    ],
+    "icon": "icons/crystal.gif"
+  },
+  {
+    "name": "Crystal Bone",
+    "category": "Części ciał",
+    "weight": "12.00",
+    "dropsFrom": [
+      "Instable Breach Brood"
+    ],
+    "icon": "icons/crystal_bone.gif"
+  },
+  {
+    "name": "Crystal Crossbow",
+    "category": "Kusze",
+    "weight": "84.00",
+    "dropsFrom": [
+      "Branchy Crawler",
+      "Cave Chimera",
+      "Cliff Strider",
+      "Crazed Summer Rearguard",
+      "Freakish Lost Soul",
+      "Haunted Hunter",
+      "Mould Phantom",
+      "Naga Archer",
+      "Orewalker",
+      "Quara Looter",
+      "Sulphur Spouter",
+      "Abyssador",
+      "Deathstrike",
+      "Gnomevil",
+      "Guard Captain Quaid",
+      "Mazzinor"
+    ],
+    "icon": "icons/crystal_crossbow.gif"
+  },
+  {
+    "name": "Crystal Mace",
+    "category": "Obuchy",
+    "weight": "80.00",
+    "dropsFrom": [
+      "Animated Feather",
+      "Boar Man",
+      "Brachiodemon",
+      "Darklight Striker",
+      "Eyeless Devourer",
+      "Icecold Book",
+      "Infernal Phantom",
+      "Ironblight",
+      "Juvenile Bashmu",
+      "Knight's Apparition",
+      "Lavafungus",
+      "Roaming Dread",
+      "Sight of Surrender",
+      "Squid Warden",
+      "Stone Devourer",
+      "Streaked Devourer",
+      "Tunnel Tyrant",
+      "Walker",
+      "White Weretiger",
+      "Eradicator",
+      "Ice Horror",
+      "Melting Frozen Horror",
+      "Realityquake",
+      "Tamru The Black",
+      "The Baron from Below",
+      "Utua Stone Sting",
+      "Vashresamun",
+      "Yakchal",
+      "Zamulosh",
+      "Zushuka"
+    ],
+    "icon": "icons/crystal_mace.gif"
+  },
+  {
+    "name": "Crystal of the Mitmah",
+    "category": "Części ciał",
+    "weight": "1.50",
+    "dropsFrom": [
+      "Mitmah Seer",
+      "Atab",
+      "Mitmah Vanguard"
+    ],
+    "icon": "icons/crystal_of_the_mitmah.gif"
+  },
+  {
+    "name": "Crystal Sword",
+    "category": "Miecze",
+    "weight": "69.00",
+    "dropsFrom": [
+      "Afflicted Strider",
+      "Barbarian Skullhunter",
+      "Boar Man",
+      "Crystal Spider",
+      "Elf Overseer",
+      "Energy Elemental",
+      "Enraged Crystal Golem",
+      "High Voltage Elemental",
+      "Ice Golem",
+      "Ice Witch",
+      "Knowledge Elemental",
+      "Menacing Carnivor",
+      "Nighthunter",
+      "Pirat Cutthroat",
+      "Spitter",
+      "Squid Warden",
+      "Werelion",
+      "Werelioness",
+      "Hirintror",
+      "Madareth",
+      "Melting Frozen Horror",
+      "Rotspit",
+      "Shardhead",
+      "Yakchal",
+      "Zushuka"
+    ],
+    "icon": "icons/crystal_sword.gif"
+  },
+  {
+    "name": "Crystalline Armor",
+    "category": "Zbroje",
+    "weight": "84.50",
+    "dropsFrom": [
+      "Animated Feather",
+      "Armadile",
+      "Crystal Wolf",
+      "Diamond Servant",
+      "Diamond Servant Replica",
+      "Haunted Hunter",
+      "Icecold Book",
+      "Orewalker",
+      "Quara Raider",
+      "Roaming Dread",
+      "Sea Serpent",
+      "Squid Warden",
+      "Tunnel Tyrant",
+      "Turbulent Elemental",
+      "Blight Mariner",
+      "Eradicator",
+      "Ghazbaran",
+      "Ice Overlord",
+      "Mazzinor",
+      "Melting Frozen Horror",
+      "Michael the Stalwart",
+      "Omrafir",
+      "Prince Drazzak",
+      "Ravenous Hunger",
+      "Realityquake",
+      "Rupture",
+      "The Count of the Core",
+      "The Duke of the Depths",
+      "The Winter Bloom",
+      "Zamulosh"
+    ],
+    "icon": "icons/crystalline_armor.gif"
+  },
+  {
+    "name": "Crystalline Spikes",
+    "category": "Części ciał",
+    "weight": "3.40",
+    "dropsFrom": [
+      "Armadile",
+      "Crystalcrusher",
+      "Enraged Crystal Golem",
+      "Ironblight",
+      "Stone Devourer"
+    ],
+    "icon": "icons/crystalline_spikes.gif"
+  },
+  {
+    "name": "Crystalline Sword",
+    "category": "Miecze",
+    "weight": "48.00",
+    "dropsFrom": [
+      "Brachiodemon",
+      "Branchy Crawler",
+      "Cliff Strider",
+      "Harpy",
+      "Abyssador",
+      "Anomaly",
+      "Deathstrike",
+      "Deep Terror",
+      "Gnomevil",
+      "Gorzindel",
+      "Melting Frozen Horror",
+      "Outburst"
+    ],
+    "icon": "icons/crystalline_sword.gif"
+  },
+  {
+    "name": "Crystallized Death",
+    "category": "Części ciał",
+    "weight": "10.00",
+    "dropsFrom": [
+      "Creepy Crawler",
+      "Crypt Construct",
+      "Crypt Fiend",
+      "Crypt Mage",
+      "Cyclursus",
+      "Haunted Hunter",
+      "Roaming Dread",
+      "Walking Dread"
+    ],
+    "icon": "icons/crystallized_death.gif"
+  },
+  {
+    "name": "Cuirass Plate",
+    "category": "Części ciał",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Raubritter Marksman",
+      "Raubritter Skirmisher",
+      "Adlerauge",
+      "Michael the Stalwart"
+    ],
+    "icon": "icons/cuirass_plate.gif"
+  },
+  {
+    "name": "Curious Matter",
+    "category": "Części ciał",
+    "weight": "4.50",
+    "dropsFrom": [
+      "Breach Brood",
+      "Anomaly",
+      "Burster",
+      "Gorzindel",
+      "Rupture",
+      "The Souldespoiler"
+    ],
+    "icon": "icons/curious_matter.gif"
+  },
+  {
+    "name": "Cursed Shoulder Spikes",
+    "category": "Części ciał",
+    "weight": "0.97",
+    "dropsFrom": [
+      "Lizard Chosen",
+      "The Voice of Ruin"
+    ],
+    "icon": "icons/cursed_shoulder_spikes.gif"
+  },
+  {
+    "name": "Damaged Armor Plates",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Falcon Knight",
+      "Falcon Paladin",
+      "Grand Canon Dominus",
+      "Grand Chaplain Gaunder",
+      "Grand Commander Soeren"
+    ],
+    "icon": "icons/damaged_armor_plates.gif"
+  },
+  {
+    "name": "Damselfly Eye",
+    "category": "Części ciał",
+    "weight": "1.50",
+    "dropsFrom": [
+      "Dawnfly",
+      "Emerald Damselfly"
+    ],
+    "icon": "icons/damselfly_eye.gif"
+  },
+  {
+    "name": "Dandelion Seeds",
+    "category": "Części ciał",
+    "weight": "1.30",
+    "dropsFrom": [
+      "Arctic Faun",
+      "Faun",
+      "Nymph",
+      "Pixie"
+    ],
+    "icon": "icons/dandelion_seeds.gif"
+  },
+  {
+    "name": "Dangerous Proto Matter",
+    "category": "Części ciał",
+    "weight": "6.00",
+    "dropsFrom": [
+      "Dreadful Disruptor",
+      "Reality Reaver"
+    ],
+    "icon": "icons/dangerous_proto_matter.gif"
+  },
+  {
+    "name": "Dark Obsidian Splinter",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Darklight Construct",
+      "Darklight Source",
+      "Darklight Striker"
+    ],
+    "icon": "icons/dark_obsidian_splinter.gif"
+  },
+  {
+    "name": "Dark Rosary",
+    "category": "Części ciał",
+    "weight": "0.90",
+    "dropsFrom": [
+      "Dark Monk",
+      "Priestess"
+    ],
+    "icon": "icons/dark_rosary.gif"
+  },
+  {
+    "name": "Dark Shield",
+    "category": "Tarcze",
+    "weight": "52.00",
+    "dropsFrom": [
+      "Bellicose Orger",
+      "Grim Reaper",
+      "Haunted Dragon",
+      "Pirate Corsair",
+      "Silencer",
+      "Thanatursus",
+      "Werelion",
+      "Ancient Lion Knight",
+      "Bretzecutioner",
+      "Michael the Stalwart",
+      "The Handmaiden"
+    ],
+    "icon": "icons/dark_shield.gif"
+  },
+  {
+    "name": "Darklight Basalt Chunk",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Walking Pillar"
+    ],
+    "icon": "icons/darklight_basalt_chunk.gif"
+  },
+  {
+    "name": "Darklight Core",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Converter",
+      "Darklight Construct",
+      "Darklight Emitter",
+      "Darklight Matter",
+      "Darklight Source",
+      "Darklight Striker",
+      "Walking Pillar",
+      "Wandering Pillar"
+    ],
+    "icon": "icons/darklight_core.gif"
+  },
+  {
+    "name": "Darklight Matter",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Converter",
+      "Darklight Matter"
+    ],
+    "icon": "icons/darklight_matter.gif"
+  },
+  {
+    "name": "Dead Weight",
+    "category": "Części ciał",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Choking Fear"
+    ],
+    "icon": "icons/dead_weight.gif"
+  },
+  {
+    "name": "Deadly Fangs",
+    "category": "Części ciał",
+    "weight": "10.00",
+    "dropsFrom": [
+      "Cyclursus",
+      "Haunted Hunter"
+    ],
+    "icon": "icons/deadly_fangs.gif"
+  },
+  {
+    "name": "Decayed Finger Bone",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Oozing Carcass",
+      "Sopping Carcass"
+    ],
+    "icon": "icons/decayed_finger_bone.gif"
+  },
+  {
+    "name": "Deepling Breaktime Snack",
+    "category": "Części ciał",
+    "weight": "2.40",
+    "dropsFrom": [
+      "Deepling Guard",
+      "Deepling Tyrant"
+    ],
+    "icon": "icons/deepling_breaktime_snack.gif"
+  },
+  {
+    "name": "Deepling Claw",
+    "category": "Części ciał",
+    "weight": "1.80",
+    "dropsFrom": [
+      "Deepling Guard",
+      "Deepling Tyrant"
+    ],
+    "icon": "icons/deepling_claw.gif"
+  },
+  {
+    "name": "Deepling Guard Belt Buckle",
+    "category": "Części ciał",
+    "weight": "2.60",
+    "dropsFrom": [
+      "Deepling Guard",
+      "Deepling Tyrant"
+    ],
+    "icon": "icons/deepling_guard_belt_buckle.gif"
+  },
+  {
+    "name": "Deepling Ridge",
+    "category": "Części ciał",
+    "weight": "1.80",
+    "dropsFrom": [
+      "Deathling Scout",
+      "Deathling Spellsinger",
+      "Deepling Elite",
+      "Deepling Warrior",
+      "Neutral Deepling Warrior"
+    ],
+    "icon": "icons/deepling_ridge.gif"
+  },
+  {
+    "name": "Deepling Scales",
+    "category": "Części ciał",
+    "weight": "4.80",
+    "dropsFrom": [
+      "Deepling Brawler",
+      "Deepling Worker",
+      "Shark"
+    ],
+    "icon": "icons/deepling_scales.gif"
+  },
+  {
+    "name": "Deeptags",
+    "category": "Części ciał",
+    "weight": "2.40",
+    "dropsFrom": [
+      "Deathling Scout",
+      "Deathling Spellsinger",
+      "Deepling Elite",
+      "Deepling Warrior",
+      "Neutral Deepling Warrior"
+    ],
+    "icon": "icons/deeptags.gif"
+  },
+  {
+    "name": "Deepworm Jaws",
+    "category": "Części ciał",
+    "weight": "1.80",
+    "dropsFrom": [
+      "Deepworm"
+    ],
+    "icon": "icons/deepworm_jaws.gif"
+  },
+  {
+    "name": "Deepworm Spike Roots",
+    "category": "Części ciał",
+    "weight": "0.70",
+    "dropsFrom": [
+      "Deepworm"
+    ],
+    "icon": "icons/deepworm_spike_roots.gif"
+  },
+  {
+    "name": "Deepworm Spikes",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Deepworm"
+    ],
+    "icon": "icons/deepworm_spikes.gif"
+  },
+  {
+    "name": "Demon Root",
+    "category": "Części ciał",
+    "weight": "0.25",
+    "dropsFrom": [
+      "Rootthing Amber Shaper",
+      "Rootthing Bug Tracker",
+      "Rootthing Nutshell"
+    ],
+    "icon": "icons/demon_root.gif"
+  },
+  {
+    "name": "Demonic Matter",
+    "category": "Części ciał",
+    "weight": "0.50",
+    "dropsFrom": [
+      "Brinebrute Inferniarch",
+      "Broodrider Inferniarch",
+      "Gorger Inferniarch",
+      "Hellhunter Inferniarch",
+      "Sineater Inferniarch",
+      "Spellreaper Inferniarch",
+      "Gralvalon",
+      "Malvaroth",
+      "Twisterror"
+    ],
+    "icon": "icons/demonic_matter.gif"
+  },
+  {
+    "name": "Diamond Sceptre",
+    "category": "Obuchy",
+    "weight": "15.00",
+    "dropsFrom": [
+      "Animated Feather",
+      "Blemished Spawn",
+      "Cursed Book",
+      "Enfeebled Silencer",
+      "Girtablilu Warrior",
+      "Gore Horn",
+      "Hulking Carnisylvan",
+      "Ice Witch",
+      "Icecold Book",
+      "Juvenile Bashmu",
+      "Massive Earth Elemental",
+      "Nightmare Scion",
+      "Ogre Ruffian",
+      "Poisonous Carnisylvan",
+      "Silencer",
+      "Squid Warden",
+      "Swan Maiden",
+      "Varnished Diremaw",
+      "Annihilon",
+      "The Blazing Time Guardian",
+      "The Freezing Time Guardian",
+      "The Time Guardian",
+      "Zavarash"
+    ],
+    "icon": "icons/diamond_sceptre.gif"
+  },
+  {
+    "name": "Diremaw Brainpan",
+    "category": "Części ciał",
+    "weight": "1.50",
+    "dropsFrom": [
+      "Diremaw"
+    ],
+    "icon": "icons/diremaw_brainpan.gif"
+  },
+  {
+    "name": "Diremaw Legs",
+    "category": "Części ciał",
+    "weight": "2.30",
+    "dropsFrom": [
+      "Diremaw"
+    ],
+    "icon": "icons/diremaw_legs.gif"
+  },
+  {
+    "name": "Dirty Turban",
+    "category": "Części ciał",
+    "weight": "1.34",
+    "dropsFrom": [
+      "Blue Djinn",
+      "Crypt Defiler",
+      "Grave Robber",
+      "Green Djinn",
+      "Nomad",
+      "Nomad (Blue)",
+      "Nomad (Female)"
+    ],
+    "icon": "icons/dirty_turban.gif"
+  },
+  {
+    "name": "Double Axe",
+    "category": "Topory",
+    "weight": "70.00",
+    "dropsFrom": [
+      "Behemoth",
+      "Cyclops Smith",
+      "Diabolic Imp",
+      "Dragon",
+      "Dwarf Guard",
+      "Fire Devil",
+      "Memory of a Dwarf",
+      "Minotaur Guard",
+      "Orger",
+      "Quara Predator",
+      "Quara Predator Scout",
+      "Valkyrie",
+      "Brutus Bloodbeard",
+      "Demodras",
+      "Ferumbras",
+      "General Murius",
+      "Ghazbaran",
+      "Golgordan",
+      "Grand Mother Foulscale",
+      "Latrivan",
+      "Lethal Lissy",
+      "Morgaroth",
+      "Mr. Punish",
+      "Orshabaal",
+      "Ron The Ripper",
+      "Stonecracker",
+      "Tazhadur",
+      "The Horned Fox"
+    ],
+    "icon": "icons/double_axe.gif"
+  },
+  {
+    "name": "Dowser",
+    "category": "Części ciał",
+    "weight": "3.60",
+    "dropsFrom": [
+      "Leaf Golem",
+      "Wilting Leaf Golem",
+      "Dazed Leaf Golem"
+    ],
+    "icon": "icons/dowser.gif"
+  },
+  {
+    "name": "Dragolisk Eye",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Dragolisk"
+    ],
+    "icon": "icons/dragolisk_eye.gif"
+  },
+  {
+    "name": "Dragolisk Poison Gland",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Dragolisk"
+    ],
+    "icon": "icons/dragolisk_poison_gland.gif"
+  },
+  {
+    "name": "Dragon Hammer",
+    "category": "Obuchy",
+    "weight": "97.00",
+    "dropsFrom": [
+      "Bulltaur Brute",
+      "Dragon",
+      "Orc Warlord",
+      "Demodras",
+      "Dire Penguin",
+      "Grand Mother Foulscale",
+      "Orshabaal",
+      "Tazhadur"
+    ],
+    "icon": "icons/dragon_hammer.gif"
+  },
+  {
+    "name": "Dragon Priest's Wandtip",
+    "category": "Części ciał",
+    "weight": "1.55",
+    "dropsFrom": [
+      "Lizard Dragon Priest",
+      "Flamecaller Zazrak"
+    ],
+    "icon": "icons/dragon_priests_wandtip.gif"
+  },
+  {
+    "name": "Dragon Slayer",
+    "category": "Miecze",
+    "weight": "82.00",
+    "dropsFrom": [
+      "Dragon Lord",
+      "Frost Dragon",
+      "Haunted Dragon",
+      "Undead Dragon",
+      "Dragon Hoard",
+      "Eldritch Dragon Lord",
+      "Inkwing",
+      "Ushuriel"
+    ],
+    "icon": "icons/dragon_slayer.gif"
+  },
+  {
+    "name": "Dragon Tongue",
+    "category": "Części ciał",
+    "weight": "5.50",
+    "dropsFrom": [
+      "Ice Dragon",
+      "Wardragon",
+      "Eldritch Dragon Lord",
+      "Gelidrazah the Frozen",
+      "Kalyassa",
+      "Tazhadur",
+      "Zorvorax"
+    ],
+    "icon": "icons/dragon_tongue.gif"
+  },
+  {
+    "name": "Dragon's Tail",
+    "category": "Części ciał",
+    "weight": "2.50",
+    "dropsFrom": [
+      "Dragolisk",
+      "Dragon",
+      "Dragon Hatchling"
+    ],
+    "icon": "icons/dragons_tail.gif"
+  },
+  {
+    "name": "Draken Wristbands",
+    "category": "Części ciał",
+    "weight": "0.78",
+    "dropsFrom": [
+      "Draken Elite",
+      "Paiz the Pauperizer"
+    ],
+    "icon": "icons/draken_wristbands.gif"
+  },
+  {
+    "name": "Dream Essence Egg",
+    "category": "Questowe",
+    "weight": "2.80",
+    "dropsFrom": [
+      "Crazed Summer Rearguard",
+      "Crazed Summer Vanguard",
+      "Crazed Winter Rearguard",
+      "Crazed Winter Vanguard",
+      "Insane Siren",
+      "Soul-broken Harbinger"
+    ],
+    "icon": "icons/dream_essence_egg.gif"
+  },
+  {
+    "name": "Dung Ball",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Insectoid Worker",
+      "Mindmasher"
+    ],
+    "icon": "icons/dung_ball.gif"
+  },
+  {
+    "name": "Earflap",
+    "category": "Części ciał",
+    "weight": "0.75",
+    "dropsFrom": [
+      "Corym Charlatan",
+      "Corym Skirmisher",
+      "Corym Vanguard"
+    ],
+    "icon": "icons/earflap.gif"
+  },
+  {
+    "name": "Elder Bonelord Tentacle",
+    "category": "Części ciał",
+    "weight": "0.75",
+    "dropsFrom": [
+      "Elder Bonelord"
+    ],
+    "icon": "icons/elder_bonelord_tentacle.gif"
+  },
+  {
+    "name": "Elven Astral Observer",
+    "category": "Części ciał",
+    "weight": "1.12",
+    "dropsFrom": [
+      "Crazed Summer Vanguard",
+      "Crazed Winter Rearguard",
+      "Elf Arcanist",
+      "Dharalion"
+    ],
+    "icon": "icons/elven_astral_observer.gif"
+  },
+  {
+    "name": "Emerald Tortoise Shell",
+    "category": "Części ciał",
+    "weight": "6.00",
+    "dropsFrom": [
+      "Emerald Tortoise"
+    ],
+    "icon": "icons/emerald_tortoise_shell.gif"
+  },
+  {
+    "name": "Empty Honey Glass",
+    "category": "Pojemniki na płyny",
+    "weight": "1.50",
+    "dropsFrom": [
+      "Black Sphinx Acolyte",
+      "Burning Gladiator",
+      "Priestess of the Wild Sun"
+    ],
+    "icon": "icons/empty_honey_glass.gif"
+  },
+  {
+    "name": "Encrypted Notes",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Bulltaur Alchemist"
+    ],
+    "icon": "icons/encrypted_notes.gif"
+  },
+  {
+    "name": "Energy Ball",
+    "category": "Części ciał",
+    "weight": "3.50",
+    "dropsFrom": [
+      "Brain Squid",
+      "Dread Intruder",
+      "Energetic Book",
+      "Outburst"
+    ],
+    "icon": "icons/energy_ball.gif"
+  },
+  {
+    "name": "Ensouled Essence",
+    "category": "Części ciał",
+    "weight": "1.35",
+    "dropsFrom": [
+      "Flimsy Lost Soul",
+      "Freakish Lost Soul",
+      "Mean Lost Soul"
+    ],
+    "icon": "icons/ensouled_essence.gif"
+  },
+  {
+    "name": "Essence of a Bad Dream",
+    "category": "Części ciał",
+    "weight": "0.95",
+    "dropsFrom": [
+      "Arachnophobica",
+      "Nightmare",
+      "Nightmare Scion",
+      "Thanatursus",
+      "Tormentor"
+    ],
+    "icon": "icons/essence_of_a_bad_dream.gif"
+  },
+  {
+    "name": "Exalted Core",
+    "category": "Pozostałe",
+    "weight": "2.60",
+    "dropsFrom": [
+      "Ten przedmiot nie wypada z żadnego potwora."
+    ],
+    "icon": "icons/exalted_core.gif"
+  },
+  {
+    "name": "Execowtioner Mask",
+    "category": "Części ciał",
+    "weight": "3.20",
+    "dropsFrom": [
+      "Execowtioner"
+    ],
+    "icon": "icons/execowtioner_mask.gif"
+  },
+  {
+    "name": "Eye of a Deepling",
+    "category": "Części ciał",
+    "weight": "2.40",
+    "dropsFrom": [
+      "Deathling Scout",
+      "Deathling Spellsinger",
+      "Deepling Brawler",
+      "Deepling Elite",
+      "Deepling Guard",
+      "Deepling Master Librarian",
+      "Deepling Scout",
+      "Deepling Spellsinger",
+      "Deepling Tyrant",
+      "Deepling Warrior",
+      "Deepling Worker",
+      "Shark",
+      "Reflection of Obujos"
+    ],
+    "icon": "icons/eye_of_a_deepling.gif"
+  },
+  {
+    "name": "Eye of a Weeper",
+    "category": "Części ciał",
+    "weight": "0.90",
+    "dropsFrom": [
+      "Weeper"
+    ],
+    "icon": "icons/eye_of_a_weeper.gif"
+  },
+  {
+    "name": "Eye of Corruption",
+    "category": "Części ciał",
+    "weight": "0.93",
+    "dropsFrom": [
+      "Draken Abomination"
+    ],
+    "icon": "icons/eye_of_corruption.gif"
+  },
+  {
+    "name": "Eyeless Devourer Legs",
+    "category": "Części ciał",
+    "weight": "2.40",
+    "dropsFrom": [
+      "Eyeless Devourer"
+    ],
+    "icon": "icons/eyeless_devourer_legs.gif"
+  },
+  {
+    "name": "Eyeless Devourer Maw",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Eyeless Devourer"
+    ],
+    "icon": "icons/eyeless_devourer_maw.gif"
+  },
+  {
+    "name": "Eyeless Devourer Tongue",
+    "category": "Części ciał",
+    "weight": "0.60",
+    "dropsFrom": [
+      "Eyeless Devourer"
+    ],
+    "icon": "icons/eyeless_devourer_tongue.gif"
+  },
+  {
+    "name": "Fafnar Symbol",
+    "category": "Części ciał",
+    "weight": "1.70",
+    "dropsFrom": [
+      "Burning Gladiator",
+      "Priestess of the Wild Sun"
+    ],
+    "icon": "icons/fafnar_symbol.gif"
+  },
+  {
+    "name": "Falcon Crest",
+    "category": "Części ciał",
+    "weight": "0.50",
+    "dropsFrom": [
+      "Falcon Knight",
+      "Falcon Paladin",
+      "Grand Canon Dominus",
+      "Grand Chaplain Gaunder",
+      "Grand Commander Soeren"
+    ],
+    "icon": "icons/falcon_crest.gif"
+  },
+  {
+    "name": "Fig Leaf",
+    "category": "Rośliny",
+    "weight": "0.60",
+    "dropsFrom": [
+      "Barkless Devotee",
+      "Barkless Fanatic",
+      "Ravenous Hunger"
+    ],
+    "icon": "icons/fig_leaf.gif"
+  },
+  {
+    "name": "Fir Cone",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Grove Guardian",
+      "Leaf Golem",
+      "Wilting Leaf Golem",
+      "Dazed Leaf Golem"
+    ],
+    "icon": "icons/fir_cone.gif"
+  },
+  {
+    "name": "Fire Axe",
+    "category": "Topory",
+    "weight": "40.00",
+    "dropsFrom": [
+      "Angry Demon",
+      "Brachiodemon",
+      "Demon",
+      "Feral Sphinx",
+      "Guardian of Tales",
+      "Hellfire Fighter",
+      "Infernal Phantom",
+      "Insane Siren",
+      "Lava Golem",
+      "Lost Basher",
+      "Lost Berserker",
+      "Lost Exile",
+      "Lost Husher",
+      "Mean Lost Soul",
+      "Rage Squid",
+      "Sulphider",
+      "Vexclaw",
+      "Weeper",
+      "Arbaziloth",
+      "Arbaziloth (Hard)",
+      "Essence of Malice",
+      "Ferumbras",
+      "Furyosa",
+      "Golgordan",
+      "Latrivan",
+      "Mahrdis",
+      "Mazoran",
+      "Minishabaal",
+      "Morgaroth",
+      "Orshabaal",
+      "The Duke of the Depths",
+      "The Imperor",
+      "Xogixath"
+    ],
+    "icon": "icons/fire_axe.gif"
+  },
+  {
+    "name": "Flask of Demonic Blood",
+    "category": "Płyny",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Betrayed Wraith",
+      "Burning Book",
+      "Dark Torturer",
+      "Dawnfire Asura",
+      "Diabolic Imp",
+      "Falcon Knight",
+      "Floating Savant",
+      "Frost Flower Asura",
+      "Fury",
+      "Grim Reaper",
+      "Grimeleech",
+      "Hand of Cursed Fate",
+      "Hellflayer",
+      "Hellhound",
+      "Juggernaut",
+      "Midnight Asura",
+      "Nightmare",
+      "True Dawnfire Asura",
+      "True Frost Flower Asura",
+      "True Midnight Asura",
+      "Fluffy",
+      "Furyosa",
+      "Grand Chaplain Gaunder",
+      "Kerberos",
+      "Kusuma",
+      "Mazoran",
+      "Plagirath",
+      "Preceptor Lazare",
+      "Ragiaz",
+      "Razzagorn",
+      "Shulgrax",
+      "Tarbaz",
+      "The Blazing Rose",
+      "The Diamond Blossom",
+      "The Flaming Orchid",
+      "The Lily of Night",
+      "The Moonlight Aster",
+      "The Winter Bloom",
+      "Tormentor",
+      "Zamulosh"
+    ],
+    "icon": "icons/flask_of_demonic_blood.gif"
+  },
+  {
+    "name": "Flotsam",
+    "category": "Części ciał",
+    "weight": "2.90",
+    "dropsFrom": [
+      "Foam Stalker",
+      "Venerable Foam Stalker"
+    ],
+    "icon": "icons/flotsam.gif"
+  },
+  {
+    "name": "Focus Cape",
+    "category": "Zbroje",
+    "weight": "21.00",
+    "dropsFrom": [
+      "Afflicted Strider",
+      "Converter",
+      "Dawnfire Asura",
+      "Draken Spellweaver",
+      "Girtablilu Warrior",
+      "Harpy",
+      "Lavafungus",
+      "Lizard Dragon Priest",
+      "Lumbering Carnivor",
+      "Nightmare Scion",
+      "Pirat Cutthroat",
+      "Reality Reaver",
+      "Sea Serpent",
+      "Stabilizing Reality Reaver",
+      "Tremendous Tyrant",
+      "True Dawnfire Asura",
+      "Wyrm",
+      "Amenef the Burning",
+      "Captain Jones",
+      "Hellgorak",
+      "Raging Mage",
+      "Reflection of a Mage",
+      "Sister Hetai"
+    ],
+    "icon": "icons/focus_cape.gif"
+  },
+  {
+    "name": "Fox Paw",
+    "category": "Części ciał",
+    "weight": "1.20",
+    "dropsFrom": [
+      "Fox",
+      "Werefox",
+      "Black Vixen"
+    ],
+    "icon": "icons/fox_paw.gif"
+  },
+  {
+    "name": "Frazzle Tongue",
+    "category": "Części ciał",
+    "weight": "6.80",
+    "dropsFrom": [
+      "Animated Guzzlemaw",
+      "Frazzlemaw",
+      "Guzzlemaw",
+      "Nibblemaw",
+      "Weakened Frazzlemaw",
+      "Mawhawk",
+      "Reflection of Mawhawk"
+    ],
+    "icon": "icons/frazzle_tongue.gif"
+  },
+  {
+    "name": "Frozen Lightning",
+    "category": "Części ciał",
+    "weight": "7.00",
+    "dropsFrom": [
+      "Brain Squid",
+      "Dread Intruder",
+      "Anomaly",
+      "Rupture",
+      "Mazzinor"
+    ],
+    "icon": "icons/frozen_lightning.gif"
+  },
+  {
+    "name": "Fur Armor",
+    "category": "Zbroje",
+    "weight": "49.00",
+    "dropsFrom": [
+      "Adult Goanna",
+      "Blemished Spawn",
+      "Capricious Phantom",
+      "Cave Chimera",
+      "Cunning Werepanther",
+      "Girtablilu Warrior",
+      "Lumbering Carnivor",
+      "Raubritter Skirmisher",
+      "Rotten Golem",
+      "Sun-marked Goanna",
+      "Turbulent Elemental",
+      "Varnished Diremaw",
+      "Werebear",
+      "Wereboar",
+      "Werecrocodile",
+      "Werepanther",
+      "Young Goanna",
+      "Bloodback",
+      "Feroxa",
+      "Michael the Stalwart",
+      "Owin",
+      "Shadowpelt"
+    ],
+    "icon": "icons/fur_armor.gif"
+  },
+  {
+    "name": "Gauze Bandage",
+    "category": "Części ciał",
+    "weight": "0.97",
+    "dropsFrom": [
+      "Animated Mummy",
+      "Elder Mummy",
+      "Mummy",
+      "Mahatheb"
+    ],
+    "icon": "icons/gauze_bandage.gif"
+  },
+  {
+    "name": "Ghastly Dragon Head",
+    "category": "Części ciał",
+    "weight": "12.00",
+    "dropsFrom": [
+      "Ghastly Dragon",
+      "Ethershreck",
+      "Hatebreeder"
+    ],
+    "icon": "icons/ghastly_dragon_head.gif"
+  },
+  {
+    "name": "Giant Pacifier",
+    "category": "Części ciał",
+    "weight": "9.00",
+    "dropsFrom": [
+      "Animated Moohtant",
+      "Moohtant",
+      "Bullwark",
+      "Moohtant Wallbreaker"
+    ],
+    "icon": "icons/giant_pacifier.gif"
+  },
+  {
+    "name": "Giant Tusk",
+    "category": "Części ciał",
+    "weight": "10.00",
+    "dropsFrom": [
+      "Creepy Crawler",
+      "Crypt Fiend"
+    ],
+    "icon": "icons/giant_tusk.gif"
+  },
+  {
+    "name": "Girlish Hair Decoration",
+    "category": "Części ciał",
+    "weight": "0.50",
+    "dropsFrom": [
+      "Amazon",
+      "Valkyrie"
+    ],
+    "icon": "icons/girlish_hair_decoration.gif"
+  },
+  {
+    "name": "Girtablilu Warrior Carapace",
+    "category": "Części ciał",
+    "weight": "2.50",
+    "dropsFrom": [
+      "Girtablilu Warrior"
+    ],
+    "icon": "icons/girtablilu_warrior_carapace.gif"
+  },
+  {
+    "name": "Glacier Mask",
+    "category": "Hełmy",
+    "weight": "10.00",
+    "dropsFrom": [
+      "Animated Feather",
+      "Animated Snowman",
+      "Crazed Winter Rearguard",
+      "Crystal Spider",
+      "Ice Dragon",
+      "Ice Golem",
+      "Icecold Book",
+      "Memory of a Dwarf",
+      "Monk's Apparition",
+      "Mycobiontic Beetle",
+      "Paladin's Apparition",
+      "Seacrest Serpent",
+      "Squid Warden",
+      "Court Warlock",
+      "Earl Osam",
+      "Gelidrazah the Frozen",
+      "Hirintror",
+      "Ice Horror",
+      "Neferi the Spy",
+      "Shardhead",
+      "The Bloodweb",
+      "Zushuka"
+    ],
+    "icon": "icons/glacier_mask.gif"
+  },
+  {
+    "name": "Glacier Robe",
+    "category": "Zbroje",
+    "weight": "22.50",
+    "dropsFrom": [
+      "Crazed Winter Rearguard",
+      "Crazed Winter Vanguard",
+      "Druid's Apparition",
+      "Girtablilu Warrior",
+      "Goggle Cake",
+      "Hazardous Phantom",
+      "Icecold Book",
+      "Many Faces",
+      "Quara Pincher",
+      "Quara Predator",
+      "Quara Raider",
+      "Renegade Quara Pincher",
+      "Renegade Quara Predator",
+      "Schiach",
+      "Squid Warden",
+      "Tremendous Tyrant",
+      "Turbulent Elemental",
+      "Court Warlock",
+      "King Zelos",
+      "Srezz Yellow Eyes",
+      "Tarbaz",
+      "The Time Guardian",
+      "The Winter Bloom",
+      "Utua Stone Sting",
+      "Yakchal",
+      "Zushuka"
+    ],
+    "icon": "icons/glacier_robe.gif"
+  },
+  {
+    "name": "Glacier Shoes",
+    "category": "Buty",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Bluebeak",
+      "Foam Stalker",
+      "Ice Witch",
+      "Icecold Book",
+      "Many Faces",
+      "Seacrest Serpent",
+      "Soul-broken Harbinger",
+      "Two-Headed Turtle",
+      "Usurper Archer",
+      "Varnished Diremaw",
+      "Venerable Foam Stalker",
+      "Hirintror",
+      "Neferi the Spy",
+      "Zushuka"
+    ],
+    "icon": "icons/glacier_shoes.gif"
+  },
+  {
+    "name": "Glob of Acid Slime",
+    "category": "Części ciał",
+    "weight": "0.10",
+    "dropsFrom": [
+      "Acid Blob",
+      "Defiler",
+      "Stonerefiner"
+    ],
+    "icon": "icons/glob_of_acid_slime.gif"
+  },
+  {
+    "name": "Glob of Glooth",
+    "category": "Części ciał",
+    "weight": "0.10",
+    "dropsFrom": [
+      "Devourer",
+      "Glooth Blob",
+      "Rot Elemental"
+    ],
+    "icon": "icons/glob_of_glooth.gif"
+  },
+  {
+    "name": "Glob of Tar",
+    "category": "Części ciał",
+    "weight": "0.10",
+    "dropsFrom": [
+      "Death Blob",
+      "Defiler"
+    ],
+    "icon": "icons/glob_of_tar.gif"
+  },
+  {
+    "name": "Glooth Axe",
+    "category": "Topory",
+    "weight": "19.00",
+    "dropsFrom": [
+      "Blood Beast",
+      "Devourer",
+      "Glooth Anemone",
+      "Glooth Bandit",
+      "Glooth Blob",
+      "Glooth Brigand",
+      "Glooth Golem",
+      "Rot Elemental",
+      "Glooth Fairy",
+      "Lisa"
+    ],
+    "icon": "icons/glooth_axe.gif"
+  },
+  {
+    "name": "Glooth Blade",
+    "category": "Miecze",
+    "weight": "19.00",
+    "dropsFrom": [
+      "Blood Beast",
+      "Devourer",
+      "Glooth Anemone",
+      "Glooth Bandit",
+      "Glooth Blob",
+      "Glooth Brigand",
+      "Glooth Golem",
+      "Glooth Fairy",
+      "Lisa"
+    ],
+    "icon": "icons/glooth_blade.gif"
+  },
+  {
+    "name": "Glooth Cape",
+    "category": "Zbroje",
+    "weight": "29.00",
+    "dropsFrom": [
+      "Devourer",
+      "Glooth Anemone",
+      "Glooth Bandit",
+      "Glooth Fairy",
+      "Lisa",
+      "Tremor Worm"
+    ],
+    "icon": "icons/glooth_cape.gif"
+  },
+  {
+    "name": "Glooth Club",
+    "category": "Obuchy",
+    "weight": "19.00",
+    "dropsFrom": [
+      "Blood Beast",
+      "Devourer",
+      "Glooth Anemone",
+      "Glooth Bandit",
+      "Glooth Blob",
+      "Glooth Brigand",
+      "Glooth Golem",
+      "Glooth Fairy",
+      "Lisa"
+    ],
+    "icon": "icons/glooth_club.gif"
+  },
+  {
+    "name": "Glooth Injection Tube",
+    "category": "Części ciał",
+    "weight": "14.00",
+    "dropsFrom": [
+      "Glooth Golem",
+      "Glooth Fairy"
+    ],
+    "icon": "icons/glooth_injection_tube.gif"
+  },
+  {
+    "name": "Glorious Axe",
+    "category": "Topory",
+    "weight": "95.00",
+    "dropsFrom": [
+      "Bashmu",
+      "Bellicose Orger",
+      "Enfeebled Silencer",
+      "Enraged Crystal Golem",
+      "Enslaved Dwarf",
+      "Infernal Phantom",
+      "Lumbering Carnivor",
+      "Mutated Tiger",
+      "Orewalker",
+      "Silencer",
+      "Stone Devourer",
+      "Werecrocodile",
+      "Werelion",
+      "Feroxa",
+      "Ghazbaran",
+      "Weakened Shlorg"
+    ],
+    "icon": "icons/glorious_axe.gif"
+  },
+  {
+    "name": "Glowing Rune",
+    "category": "Części ciał",
+    "weight": "0.10",
+    "dropsFrom": [
+      "Animated Feather",
+      "Biting Book",
+      "Brain Squid",
+      "Energetic Book",
+      "Energuardian of Tales",
+      "Guardian of Tales",
+      "Knowledge Elemental",
+      "Rage Squid",
+      "Squid Warden"
+    ],
+    "icon": "icons/glowing_rune.gif"
+  },
+  {
+    "name": "Goanna Claw",
+    "category": "Części ciał",
+    "weight": "0.90",
+    "dropsFrom": [
+      "Adult Goanna",
+      "Young Goanna"
+    ],
+    "icon": "icons/goanna_claw.gif"
+  },
+  {
+    "name": "Goanna Meat",
+    "category": "Pożywienie jadalne",
+    "weight": "0.90",
+    "dropsFrom": [
+      "Adult Goanna",
+      "Sun-marked Goanna",
+      "Young Goanna"
+    ],
+    "icon": "icons/goanna_meat.gif"
+  },
+  {
+    "name": "Golden Legs",
+    "category": "Nogawice",
+    "weight": "56.00",
+    "dropsFrom": [
+      "Angry Demon",
+      "Dark Torturer",
+      "Demon",
+      "Fury",
+      "Rootthing Bug Tracker",
+      "Vexclaw",
+      "Arbaziloth",
+      "Ferumbras",
+      "Ferumbras Mortal Shell",
+      "Gaz'Haragoth",
+      "Ghazbaran",
+      "Golgordan",
+      "Hellgorak",
+      "Horadron",
+      "Latrivan",
+      "Minishabaal",
+      "Morgaroth",
+      "Orshabaal",
+      "Ragiaz",
+      "Realityquake",
+      "Rotrender Scourge of Azzilon",
+      "World Devourer"
+    ],
+    "icon": "icons/golden_legs.gif"
+  },
+  {
+    "name": "Golden Lotus Brooch",
+    "category": "Kosztowności",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Dawnfire Asura",
+      "Frost Flower Asura",
+      "Midnight Asura",
+      "True Dawnfire Asura",
+      "True Frost Flower Asura",
+      "True Midnight Asura",
+      "Kusuma",
+      "The Blazing Rose",
+      "The Diamond Blossom",
+      "The Flaming Orchid",
+      "The Lily of Night",
+      "The Moonlight Aster",
+      "The Winter Bloom"
+    ],
+    "icon": "icons/golden_lotus_brooch.gif"
+  },
+  {
+    "name": "Golden Sickle",
+    "category": "Topory",
+    "weight": "19.50",
+    "dropsFrom": [
+      "Angry Demon",
+      "Blightwalker",
+      "Boogy",
+      "Cunning Werepanther",
+      "Demon",
+      "Priestess of the Wild Sun",
+      "Werepanther",
+      "Arbaziloth",
+      "Arbaziloth (Hard)",
+      "Latrivan",
+      "Orshabaal",
+      "Rotrender Scourge of Azzilon"
+    ],
+    "icon": "icons/golden_sickle.gif"
+  },
+  {
+    "name": "Golden Sun Coin",
+    "category": "Części ciał",
+    "weight": "2.80",
+    "dropsFrom": [
+      "Feral Werecrocodile",
+      "Werecrocodile",
+      "Ayana The Crimson Curse"
+    ],
+    "icon": "icons/golden_sun_coin.gif"
+  },
+  {
+    "name": "Gore Horn",
+    "category": "Części ciał",
+    "weight": "2.60",
+    "dropsFrom": [
+      "Gore Horn"
+    ],
+    "icon": "icons/gore_horn.gif"
+  },
+  {
+    "name": "Gorerilla Mane",
+    "category": "Części ciał",
+    "weight": "2.40",
+    "dropsFrom": [
+      "Gorerilla"
+    ],
+    "icon": "icons/gorerilla_mane.gif"
+  },
+  {
+    "name": "Gorerilla Tail",
+    "category": "Części ciał",
+    "weight": "2.80",
+    "dropsFrom": [
+      "Gorerilla"
+    ],
+    "icon": "icons/gorerilla_tail.gif"
+  },
+  {
+    "name": "Gorger Antlers",
+    "category": "Części ciał",
+    "weight": "6.30",
+    "dropsFrom": [
+      "Gorger Inferniarch"
+    ],
+    "icon": "icons/gorger_antlers.gif"
+  },
+  {
+    "name": "Grappling Hook",
+    "category": "Części ciał",
+    "weight": "6.20",
+    "dropsFrom": [
+      "Pirat Scoundrel"
+    ],
+    "icon": "icons/grappling_hook.gif"
+  },
+  {
+    "name": "Green Bandage",
+    "category": "Części ciał",
+    "weight": "0.60",
+    "dropsFrom": [
+      "Putrid Mummy"
+    ],
+    "icon": "icons/green_bandage.gif"
+  },
+  {
+    "name": "Guardian Shield",
+    "category": "Tarcze",
+    "weight": "55.00",
+    "dropsFrom": [
+      "Burning Book",
+      "Choking Fear",
+      "Cult Enforcer",
+      "Demon Skeleton",
+      "Diabolic Imp",
+      "Energy Elemental",
+      "Enslaved Dwarf",
+      "Fire Devil",
+      "Knowledge Elemental",
+      "Lost Berserker",
+      "Lost Exile",
+      "Lost Husher",
+      "Minotaur Invader",
+      "Mooh'Tah Warrior",
+      "Mutated Tiger",
+      "Spiky Carnivor",
+      "Undead Minion",
+      "Vicious Squire",
+      "Annihilon",
+      "Minishabaal",
+      "Terofar",
+      "The Imperor",
+      "Tyrn",
+      "Zavarash",
+      "Zomba",
+      "Zulazza the Corruptor"
+    ],
+    "icon": "icons/guardian_shield.gif"
+  },
+  {
+    "name": "Halberd",
+    "category": "Topory",
+    "weight": "90.00",
+    "dropsFrom": [
+      "Animated Cyclops",
+      "Barbarian Bloodwalker",
+      "Cult Enforcer",
+      "Cyclops",
+      "Cyclops Drone",
+      "Foam Stalker",
+      "Frost Giant",
+      "Golden Servant",
+      "Golden Servant Replica",
+      "Hacker",
+      "Iron Servant",
+      "Iron Servant Replica",
+      "Lizard Sentinel",
+      "Mutated Rat",
+      "Orc Berserker",
+      "Orc Cult Inquisitor",
+      "Quara Mantassin",
+      "Quara Pincher",
+      "Quara Pincher Scout",
+      "Renegade Quara Pincher",
+      "Thanatursus",
+      "Venerable Foam Stalker",
+      "Vicious Squire",
+      "Wailing Widow",
+      "Werehyaena",
+      "Werewolf",
+      "Zombie",
+      "Annihilon",
+      "Black Knight",
+      "Esmeralda"
+    ],
+    "icon": "icons/halberd.gif"
+  },
+  {
+    "name": "Half-Digested Stones",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Stonerefiner"
+    ],
+    "icon": "icons/halfdigested_stones.gif"
+  },
+  {
+    "name": "Half-Eaten Brain",
+    "category": "Części ciał",
+    "weight": "0.64",
+    "dropsFrom": [
+      "Zombie"
+    ],
+    "icon": "icons/halfeaten_brain.gif"
+  },
+  {
+    "name": "Harpy Feathers",
+    "category": "Części ciał",
+    "weight": "3.90",
+    "dropsFrom": [
+      "Harpy"
+    ],
+    "icon": "icons/harpy_feathers.gif"
+  },
+  {
+    "name": "Headpecker Beak",
+    "category": "Części ciał",
+    "weight": "3.90",
+    "dropsFrom": [
+      "Headpecker"
+    ],
+    "icon": "icons/headpecker_beak.gif"
+  },
+  {
+    "name": "Headpecker Feather",
+    "category": "Części ciał",
+    "weight": "0.70",
+    "dropsFrom": [
+      "Headpecker"
+    ],
+    "icon": "icons/headpecker_feather.gif"
+  },
+  {
+    "name": "Heart Amphora",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Norcferatu Heartless"
+    ],
+    "icon": "icons/heart_amphora.gif"
+  },
+  {
+    "name": "Heavy Machete",
+    "category": "Miecze",
+    "weight": "18.40",
+    "dropsFrom": [
+      "Cobra Assassin",
+      "Cyclops Smith",
+      "Efreet",
+      "Marid",
+      "Menacing Carnivor",
+      "Fahim The Wise",
+      "Merikh the Slaughterer"
+    ],
+    "icon": "icons/heavy_machete.gif"
+  },
+  {
+    "name": "Heavy Trident",
+    "category": "Topory",
+    "weight": "90.00",
+    "dropsFrom": [
+      "Deathling Scout",
+      "Deathling Spellsinger",
+      "Deepling Brawler",
+      "Deepling Elite",
+      "Deepling Guard",
+      "Deepling Scout",
+      "Deepling Tyrant",
+      "Deepling Warrior",
+      "Deepling Worker",
+      "Neutral Deepling Warrior"
+    ],
+    "icon": "icons/heavy_trident.gif"
+  },
+  {
+    "name": "Hellhound Slobber",
+    "category": "Części ciał",
+    "weight": "0.75",
+    "dropsFrom": [
+      "Hellhound",
+      "Kerberos"
+    ],
+    "icon": "icons/hellhound_slobber.gif"
+  },
+  {
+    "name": "Hemp Rope",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Choking Fear"
+    ],
+    "icon": "icons/hemp_rope.gif"
+  },
+  {
+    "name": "Hibiscus Dress",
+    "category": "Zbroje",
+    "weight": "19.00",
+    "dropsFrom": [
+      "Angry Sugar Fairy",
+      "Nymph",
+      "Vampire Bride",
+      "Wyrm",
+      "Boreth"
+    ],
+    "icon": "icons/hibiscus_dress.gif"
+  },
+  {
+    "name": "Hideous Chunk",
+    "category": "Części ciał",
+    "weight": "1.60",
+    "dropsFrom": [
+      "Hideous Fungus"
+    ],
+    "icon": "icons/hideous_chunk.gif"
+  },
+  {
+    "name": "High Guard Flag",
+    "category": "Części ciał",
+    "weight": "1.12",
+    "dropsFrom": [
+      "Lizard High Guard"
+    ],
+    "icon": "icons/high_guard_flag.gif"
+  },
+  {
+    "name": "High Guard Shoulderplates",
+    "category": "Części ciał",
+    "weight": "1.03",
+    "dropsFrom": [
+      "Lizard High Guard"
+    ],
+    "icon": "icons/high_guard_shoulderplates.gif"
+  },
+  {
+    "name": "Holy Ash",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Flickering Spirit Elemental",
+      "Lost Exile",
+      "Lost Husher",
+      "Psychic Spirit Elemental",
+      "Spirit Overlord"
+    ],
+    "icon": "icons/holy_ash.gif"
+  },
+  {
+    "name": "Horoscope",
+    "category": "Części ciał",
+    "weight": "2.80",
+    "dropsFrom": [
+      "Blood Hand",
+      "Blood Priest",
+      "Shadow Pupil"
+    ],
+    "icon": "icons/horoscope.gif"
+  },
+  {
+    "name": "Human Teeth",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Dark Carnisylvan",
+      "Hulking Carnisylvan",
+      "Poisonous Carnisylvan"
+    ],
+    "icon": "icons/human_teeth.gif"
+  },
+  {
+    "name": "Humongous Chunk",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Humongous Fungus"
+    ],
+    "icon": "icons/humongous_chunk.gif"
+  },
+  {
+    "name": "Hydra Head",
+    "category": "Części ciał",
+    "weight": "13.00",
+    "dropsFrom": [
+      "Hydra",
+      "Lion Hydra"
+    ],
+    "icon": "icons/hydra_head.gif"
+  },
+  {
+    "name": "Hydrophytes",
+    "category": "Rośliny",
+    "weight": "0.45",
+    "dropsFrom": [
+      "Two-Headed Turtle"
+    ],
+    "icon": "icons/hydrophytes.gif"
+  },
+  {
+    "name": "Ice Flower",
+    "category": "Rośliny",
+    "weight": "0.10",
+    "dropsFrom": [
+      "Crazed Winter Rearguard",
+      "Crazed Winter Vanguard",
+      "Soul-broken Harbinger"
+    ],
+    "icon": "icons/ice_flower.gif"
+  },
+  {
+    "name": "Idol of the Forge",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Bulltaur Forgepriest"
+    ],
+    "icon": "icons/idol_of_the_forge.gif"
+  },
+  {
+    "name": "Inkwell",
+    "category": "Części ciał",
+    "weight": "1.80",
+    "dropsFrom": [
+      "Brain Squid",
+      "Ink Blob",
+      "Ink Splash",
+      "Rage Squid",
+      "Squid Warden"
+    ],
+    "icon": "icons/inkwell.gif"
+  },
+  {
+    "name": "Instable Proto Matter",
+    "category": "Części ciał",
+    "weight": "6.00",
+    "dropsFrom": [
+      "Brain Squid",
+      "Dread Intruder",
+      "Outburst"
+    ],
+    "icon": "icons/instable_proto_matter.gif"
+  },
+  {
+    "name": "Ivory Carving",
+    "category": "Części ciał",
+    "weight": "1.40",
+    "dropsFrom": [
+      "Werelion",
+      "Werelioness"
+    ],
+    "icon": "icons/ivory_carving.gif"
+  },
+  {
+    "name": "Key to the Drowned Library",
+    "category": "Questowe",
+    "weight": "1.20",
+    "dropsFrom": [
+      "Deepling Master Librarian",
+      "Deepling Spellsinger"
+    ],
+    "icon": "icons/key_to_the_drowned_library.gif"
+  },
+  {
+    "name": "Knife",
+    "category": "Miecze",
+    "weight": "4.20",
+    "dropsFrom": [
+      "Assassin",
+      "Barbarian Headsplitter",
+      "Barbarian Skullhunter",
+      "Cobra Assassin",
+      "Crazed Summer Vanguard",
+      "Headpecker",
+      "Smuggler",
+      "Undead Prospector",
+      "Usurper Archer",
+      "Werehyaena",
+      "Ancient Lion Knight",
+      "Apprentice Sheng",
+      "Faceless Bane"
+    ],
+    "icon": "icons/knife.gif"
+  },
+  {
+    "name": "Knight Axe",
+    "category": "Topory",
+    "weight": "59.00",
+    "dropsFrom": [
+      "Afflicted Strider",
+      "Blemished Spawn",
+      "Crusader",
+      "Execowtioner",
+      "Girtablilu Warrior",
+      "Hellhound",
+      "Hulking Carnisylvan",
+      "Lost Basher",
+      "Lost Berserker",
+      "Lost Exile",
+      "Lost Husher",
+      "Minotaur Invader",
+      "Pirat Cutthroat",
+      "Poisonous Carnisylvan",
+      "Skeleton Elite Warrior",
+      "Thanatursus",
+      "Tremendous Tyrant",
+      "Undead Elite Gladiator",
+      "Undead Gladiator",
+      "Amenef the Burning",
+      "Black Knight",
+      "Fluffy",
+      "Kerberos",
+      "Morguthis",
+      "Neferi the Spy",
+      "Sir Leonard",
+      "Sir Leopold",
+      "The Enraged Thorn Knight"
+    ],
+    "icon": "icons/knight_axe.gif"
+  },
+  {
+    "name": "Knight Legs",
+    "category": "Nogawice",
+    "weight": "70.00",
+    "dropsFrom": [
+      "Cliff Strider",
+      "Crystal Spider",
+      "Cult Enforcer",
+      "Foam Stalker",
+      "Giant Spider",
+      "Gore Horn",
+      "Hellspawn",
+      "Lost Basher",
+      "Menacing Carnivor",
+      "Mooh'Tah Warrior",
+      "Nightmare",
+      "Orewalker",
+      "Plaguesmith",
+      "Soul-broken Harbinger",
+      "Sulphur Spouter",
+      "Two-Headed Turtle",
+      "Usurper Knight",
+      "Usurper Warlock",
+      "Venerable Foam Stalker",
+      "Vicious Squire",
+      "Black Knight",
+      "Count Vlarkorth",
+      "Flameborn",
+      "Hellgorak",
+      "Hide",
+      "Horadron",
+      "Mamma Longlegs",
+      "Sir Baeloc",
+      "Sir Leonard",
+      "Sir Leopold",
+      "The Bloodweb",
+      "The Old Widow",
+      "Tormentor"
+    ],
+    "icon": "icons/knight_legs.gif"
+  },
+  {
+    "name": "Kongra's Shoulderpad",
+    "category": "Części ciał",
+    "weight": "1.40",
+    "dropsFrom": [
+      "Cursed Ape",
+      "Kongra"
+    ],
+    "icon": "icons/kongras_shoulderpad.gif"
+  },
+  {
+    "name": "Lamassu Hoof",
+    "category": "Części ciał",
+    "weight": "1.10",
+    "dropsFrom": [
+      "Crypt Warden",
+      "Lamassu"
+    ],
+    "icon": "icons/lamassu_hoof.gif"
+  },
+  {
+    "name": "Lamassu Horn",
+    "category": "Części ciał",
+    "weight": "2.50",
+    "dropsFrom": [
+      "Crypt Warden",
+      "Lamassu"
+    ],
+    "icon": "icons/lamassu_horn.gif"
+  },
+  {
+    "name": "Lancer Beetle Shell",
+    "category": "Części ciał",
+    "weight": "1.07",
+    "dropsFrom": [
+      "Lancer Beetle",
+      "The Blightfather"
+    ],
+    "icon": "icons/lancer_beetle_shell.gif"
+  },
+  {
+    "name": "Lancet",
+    "category": "Części ciał",
+    "weight": "4.90",
+    "dropsFrom": [
+      "Blood Hand",
+      "Blood Priest"
+    ],
+    "icon": "icons/lancet.gif"
+  },
+  {
+    "name": "Lavafungus Head",
+    "category": "Części ciał",
+    "weight": "1.80",
+    "dropsFrom": [
+      "Lavafungus"
+    ],
+    "icon": "icons/lavafungus_head.gif"
+  },
+  {
+    "name": "Lavafungus Ring",
+    "category": "Części ciał",
+    "weight": "0.40",
+    "dropsFrom": [
+      "Lavafungus"
+    ],
+    "icon": "icons/lavafungus_ring.gif"
+  },
+  {
+    "name": "Lavaworm Jaws",
+    "category": "Części ciał",
+    "weight": "1.80",
+    "dropsFrom": [
+      "Lavaworm"
+    ],
+    "icon": "icons/lavaworm_jaws.gif"
+  },
+  {
+    "name": "Lavaworm Spike Roots",
+    "category": "Części ciał",
+    "weight": "0.70",
+    "dropsFrom": [
+      "Lavaworm"
+    ],
+    "icon": "icons/lavaworm_spike_roots.gif"
+  },
+  {
+    "name": "Lavaworm Spikes",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Lavaworm"
+    ],
+    "icon": "icons/lavaworm_spikes.gif"
+  },
+  {
+    "name": "Lightning Boots",
+    "category": "Buty",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Burning Gladiator",
+      "Cursed Prospector",
+      "Elder Wyrm",
+      "Energetic Book",
+      "Juvenile Bashmu",
+      "Lich",
+      "Mercurial Menace",
+      "Pirat Bombardier",
+      "War Golem",
+      "Gravelord Oshuran",
+      "Mazzinor",
+      "Omrafir",
+      "Prince Drazzak"
+    ],
+    "icon": "icons/lightning_boots.gif"
+  },
+  {
+    "name": "Lightning Headband",
+    "category": "Hełmy",
+    "weight": "10.00",
+    "dropsFrom": [
+      "Brain Squid",
+      "Burning Gladiator",
+      "Cloak of Terror",
+      "Courage Leech",
+      "Cunning Werepanther",
+      "Energetic Book",
+      "Evil Prospector",
+      "Giant Spider",
+      "High Voltage Elemental",
+      "Hulking Carnisylvan",
+      "Reality Reaver",
+      "Sphinx",
+      "Stabilizing Reality Reaver",
+      "Two-Headed Turtle",
+      "Usurper Warlock",
+      "Werelioness",
+      "Anomaly",
+      "Burster",
+      "Court Warlock",
+      "Lord Azaram",
+      "Neferi the Spy",
+      "Outburst",
+      "Realityquake",
+      "Rupture",
+      "Sister Hetai",
+      "Tyrn",
+      "World Devourer"
+    ],
+    "icon": "icons/lightning_headband.gif"
+  },
+  {
+    "name": "Lightning Robe",
+    "category": "Zbroje",
+    "weight": "22.50",
+    "dropsFrom": [
+      "Bulltaur Forgepriest",
+      "Cursed Prospector",
+      "Elder Wyrm",
+      "High Voltage Elemental",
+      "Raubritter Chastener",
+      "Warlock",
+      "Anomaly",
+      "Court Warlock",
+      "King Zelos",
+      "Mad Mage",
+      "Omrafir",
+      "Outburst",
+      "Overseer Osverger",
+      "Prince Drazzak",
+      "Realityquake",
+      "Tyrn",
+      "Zarabustor"
+    ],
+    "icon": "icons/lightning_robe.gif"
+  },
+  {
+    "name": "Lime Tart",
+    "category": "Pożywienie jadalne",
+    "weight": "0.25",
+    "dropsFrom": [
+      "Nibblemaw",
+      "Sugar Daddy"
+    ],
+    "icon": "icons/lime_tart.gif"
+  },
+  {
+    "name": "Liodile Fang",
+    "category": "Części ciał",
+    "weight": "1.70",
+    "dropsFrom": [
+      "Liodile"
+    ],
+    "icon": "icons/liodile_fang.gif"
+  },
+  {
+    "name": "Lion Cloak Patch",
+    "category": "Części ciał",
+    "weight": "5.00",
+    "dropsFrom": [
+      "Usurper Archer",
+      "Usurper Commander",
+      "Usurper Knight",
+      "Usurper Warlock"
+    ],
+    "icon": "icons/lion_cloak_patch.gif"
+  },
+  {
+    "name": "Lion Crest",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Usurper Archer",
+      "Usurper Commander",
+      "Usurper Knight",
+      "Usurper Warlock"
+    ],
+    "icon": "icons/lion_crest.gif"
+  },
+  {
+    "name": "Lost Basher's Spike",
+    "category": "Części ciał",
+    "weight": "2.20",
+    "dropsFrom": [
+      "Lost Basher"
+    ],
+    "icon": "icons/lost_bashers_spike.gif"
+  },
+  {
+    "name": "Lost Bracers",
+    "category": "Części ciał",
+    "weight": "2.90",
+    "dropsFrom": [
+      "Lost Thrower"
+    ],
+    "icon": "icons/lost_bracers.gif"
+  },
+  {
+    "name": "Luminous Orb",
+    "category": "Części ciał",
+    "weight": "0.94",
+    "dropsFrom": [
+      "Draken Spellweaver",
+      "Raging Mage",
+      "Warlock",
+      "Ancient Spawn of Morgathla",
+      "Lloyd",
+      "Mad Mage",
+      "Ravenous Hunger",
+      "Reflection of a Mage",
+      "The Baron from Below",
+      "The Blazing Time Guardian",
+      "The Count of the Core",
+      "The Duke of the Depths",
+      "The Freezing Time Guardian",
+      "The Sandking",
+      "The Time Guardian"
+    ],
+    "icon": "icons/luminous_orb.gif"
+  },
+  {
+    "name": "Lump of Earth",
+    "category": "Części ciał",
+    "weight": "1.16",
+    "dropsFrom": [
+      "Brimstone Bug",
+      "Clay Guardian",
+      "Drillworm",
+      "Earth Elemental",
+      "Jagged Earth Elemental",
+      "Massive Earth Elemental",
+      "Muddy Earth Elemental",
+      "Earth Overlord",
+      "Sulphur Scuttler",
+      "The Shatterer"
+    ],
+    "icon": "icons/lump_of_earth.gif"
+  },
+  {
+    "name": "Mad Froth",
+    "category": "Części ciał",
+    "weight": "1.60",
+    "dropsFrom": [
+      "Lost Thrower"
+    ],
+    "icon": "icons/mad_froth.gif"
+  },
+  {
+    "name": "Magma Boots",
+    "category": "Buty",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Burning Gladiator",
+      "Crazed Summer Vanguard",
+      "Dragon Lord Hatchling",
+      "Feral Sphinx",
+      "Hellflayer",
+      "Hellhound",
+      "Honey Elemental",
+      "Infernal Demon",
+      "Infernalist",
+      "Lava Golem",
+      "Magma Crawler",
+      "Manticore",
+      "Massive Fire Elemental",
+      "Orc Warlord",
+      "Pirat Bombardier",
+      "Sphinx",
+      "Sulphider",
+      "Wandering Pillar",
+      "Bibby Bloodbath",
+      "Count Vlarkorth",
+      "Sister Hetai",
+      "The Souldespoiler",
+      "Warlord Ruzad"
+    ],
+    "icon": "icons/magma_boots.gif"
+  },
+  {
+    "name": "Magma Clump",
+    "category": "Części ciał",
+    "weight": "3.10",
+    "dropsFrom": [
+      "Lava Golem",
+      "Magma Crawler",
+      "Vulcongra",
+      "Walking Pillar",
+      "Wandering Pillar",
+      "Weeper"
+    ],
+    "icon": "icons/magma_clump.gif"
+  },
+  {
+    "name": "Magma Coat",
+    "category": "Zbroje",
+    "weight": "22.50",
+    "dropsFrom": [
+      "Afflicted Strider",
+      "Burning Book",
+      "Cinder Wyrmling",
+      "Crape Man",
+      "Dawnfire Asura",
+      "Diabolic Imp",
+      "Gazer Spectre",
+      "Girtablilu Warrior",
+      "Gorerilla",
+      "Guardian of Tales",
+      "Hellfire Fighter",
+      "Hellhound",
+      "Insane Siren",
+      "Lava Golem",
+      "Manticore",
+      "Percht",
+      "Sabretooth",
+      "Shaburak Lord",
+      "Shaburak Prince",
+      "Stalking Stalk",
+      "True Dawnfire Asura",
+      "Vulcongra",
+      "Wandering Pillar",
+      "Weeper",
+      "Court Warlock",
+      "Fire Overlord",
+      "Furyosa",
+      "Gaz'Haragoth",
+      "King Zelos",
+      "Mazoran",
+      "Morgaroth",
+      "Scarlett Etzel",
+      "Sister Hetai",
+      "The Baron from Below",
+      "The Blazing Rose",
+      "The Count of the Core",
+      "The Flaming Orchid",
+      "The Imperor",
+      "The Sandking",
+      "The Time Guardian",
+      "Urmahlullu the Weakened"
+    ],
+    "icon": "icons/magma_coat.gif"
+  },
+  {
+    "name": "Magma Legs",
+    "category": "Nogawice",
+    "weight": "19.00",
+    "dropsFrom": [
+      "Broodrider Inferniarch",
+      "Feral Sphinx",
+      "Grimeleech",
+      "Guardian of Tales",
+      "Hellfire Fighter",
+      "Hellflayer",
+      "Hellhound",
+      "Honey Elemental",
+      "Insane Siren",
+      "Manticore",
+      "Massive Fire Elemental",
+      "Percht",
+      "Shaburak Demon",
+      "Sphinx",
+      "Usurper Knight",
+      "Walking Pillar",
+      "Weeper",
+      "Werelioness",
+      "Arbaziloth",
+      "Arbaziloth (Hard)",
+      "Ferumbras",
+      "Ferumbras Mortal Shell",
+      "Furyosa",
+      "Hellgorak",
+      "Mazoran",
+      "The Blazing Time Guardian",
+      "The Flaming Orchid",
+      "The Freezing Time Guardian",
+      "The Time Guardian",
+      "Utua Stone Sting",
+      "Yirkas Blue Scales"
+    ],
+    "icon": "icons/magma_legs.gif"
+  },
+  {
+    "name": "Magma Monocle",
+    "category": "Hełmy",
+    "weight": "10.00",
+    "dropsFrom": [
+      "Burning Book",
+      "Cinder Wyrmling",
+      "Diabolic Imp",
+      "Efreet",
+      "Feral Sphinx",
+      "Hellhound",
+      "Insane Siren",
+      "Manticore",
+      "Marid",
+      "Percht",
+      "Raubritter Chastener",
+      "Sphinx",
+      "Usurper Warlock",
+      "Werepanther",
+      "Clavius",
+      "Court Warlock",
+      "Essence of Malice",
+      "Fahim The Wise",
+      "Merikh the Slaughterer",
+      "Overseer Osverger",
+      "Scarlett Etzel",
+      "Sir Baeloc",
+      "Urmahlullu the Weakened"
+    ],
+    "icon": "icons/magma_monocle.gif"
+  },
+  {
+    "name": "Makara Fin",
+    "category": "Części ciał",
+    "weight": "2.50",
+    "dropsFrom": [
+      "Makara"
+    ],
+    "icon": "icons/makara_fin.gif"
+  },
+  {
+    "name": "Makara Tongue",
+    "category": "Części ciał",
+    "weight": "1.20",
+    "dropsFrom": [
+      "Makara"
+    ],
+    "icon": "icons/makara_tongue.gif"
+  },
+  {
+    "name": "Mammoth Tusk",
+    "category": "Części ciał",
+    "weight": "6.00",
+    "dropsFrom": [
+      "Mammoth",
+      "The Bloodtusk"
+    ],
+    "icon": "icons/mammoth_tusk.gif"
+  },
+  {
+    "name": "Mammoth Whopper",
+    "category": "Obuchy",
+    "weight": "45.00",
+    "dropsFrom": [
+      "Chakoya Toolshaper",
+      "Chakoya Tribewarden",
+      "Crypt Warrior",
+      "Mammoth",
+      "Memory of a Mammoth",
+      "Skeleton Elite Warrior",
+      "Ocyakao"
+    ],
+    "icon": "icons/mammoth_whopper.gif"
+  },
+  {
+    "name": "Manticore Ear",
+    "category": "Części ciał",
+    "weight": "0.90",
+    "dropsFrom": [
+      "Manticore",
+      "Enusat the Onyx Wing"
+    ],
+    "icon": "icons/manticore_ear.gif"
+  },
+  {
+    "name": "Manticore Tail",
+    "category": "Części ciał",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Manticore",
+      "Enusat the Onyx Wing"
+    ],
+    "icon": "icons/manticore_tail.gif"
+  },
+  {
+    "name": "Mantosaurus Jaw",
+    "category": "Części ciał",
+    "weight": "4.20",
+    "dropsFrom": [
+      "Mantosaurus"
+    ],
+    "icon": "icons/mantosaurus_jaw.gif"
+  },
+  {
+    "name": "Mega Dragon Heart",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Mega Dragon"
+    ],
+    "icon": "icons/mega_dragon_heart.gif"
+  },
+  {
+    "name": "Mercenary Sword",
+    "category": "Miecze",
+    "weight": "68.00",
+    "dropsFrom": [
+      "Afflicted Strider",
+      "Betrayed Wraith",
+      "Eyeless Devourer",
+      "Foam Stalker",
+      "Glooth Brigand",
+      "Infernal Demon",
+      "Mean Lost Soul",
+      "Mutated Bat",
+      "Raubritter Skirmisher",
+      "Retching Horror",
+      "Rotten Golem",
+      "Serpent Spawn",
+      "Streaked Devourer",
+      "Venerable Foam Stalker",
+      "Amenef the Burning",
+      "Blight Mariner",
+      "Bruise Payne",
+      "Ghulosh",
+      "Madareth",
+      "Man in the Cave",
+      "Michael the Stalwart",
+      "Plagirath",
+      "The Noxious Spawn",
+      "Unaz the Mean",
+      "Utua Stone Sting"
+    ],
+    "icon": "icons/mercenary_sword.gif"
+  },
+  {
+    "name": "Mercurial Wing",
+    "category": "Części ciał",
+    "weight": "4.70",
+    "dropsFrom": [
+      "Mercurial Menace"
+    ],
+    "icon": "icons/mercurial_wing.gif"
+  },
+  {
+    "name": "Metal Bat",
+    "category": "Obuchy",
+    "weight": "51.00",
+    "dropsFrom": [
+      "Brachiodemon",
+      "Eyeless Devourer",
+      "Metal Gargoyle",
+      "Rustheap Golem",
+      "The Unarmored Voidborn"
+    ],
+    "icon": "icons/metal_bat.gif"
+  },
+  {
+    "name": "Metal Jaw",
+    "category": "Części ciał",
+    "weight": "1.40",
+    "dropsFrom": [
+      "Metal Gargoyle"
+    ],
+    "icon": "icons/metal_jaw.gif"
+  },
+  {
+    "name": "Metal Spats",
+    "category": "Buty",
+    "weight": "18.00",
+    "dropsFrom": [
+      "Bellicose Orger",
+      "Control Tower",
+      "Glooth Battery",
+      "Gore Horn",
+      "Lavafungus",
+      "Metal Gargoyle",
+      "Ogre Ruffian",
+      "Sabretooth",
+      "Walker",
+      "Sister Hetai"
+    ],
+    "icon": "icons/metal_spats.gif"
+  },
+  {
+    "name": "Mino Lance",
+    "category": "Topory",
+    "weight": "65.00",
+    "dropsFrom": [
+      "Minotaur Amazon",
+      "Minotaur Cult Follower"
+    ],
+    "icon": "icons/mino_lance.gif"
+  },
+  {
+    "name": "Mino Shield",
+    "category": "Tarcze",
+    "weight": "65.00",
+    "dropsFrom": [
+      "Bulltaur Brute",
+      "Minotaur Amazon",
+      "Minotaur Cult Follower",
+      "Minotaur Hunter",
+      "Thanatursus",
+      "Usurper Archer",
+      "The False God"
+    ],
+    "icon": "icons/mino_shield.gif"
+  },
+  {
+    "name": "Molten Dragon Essence",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Mega Dragon"
+    ],
+    "icon": "icons/molten_dragon_essence.gif"
+  },
+  {
+    "name": "Mould Heart",
+    "category": "Części ciał",
+    "weight": "0.75",
+    "dropsFrom": [
+      "Mould Phantom"
+    ],
+    "icon": "icons/mould_heart.gif"
+  },
+  {
+    "name": "Mouldy Powder",
+    "category": "Części ciał",
+    "weight": "1.70",
+    "dropsFrom": [
+      "Pirat Bombardier",
+      "Pirat Mate"
+    ],
+    "icon": "icons/mouldy_powder.gif"
+  },
+  {
+    "name": "Mummified Demon Finger",
+    "category": "Części ciał",
+    "weight": "1.20",
+    "dropsFrom": [
+      "Brinebrute Inferniarch",
+      "Broodrider Inferniarch",
+      "Gorger Inferniarch",
+      "Hellhunter Inferniarch",
+      "Sineater Inferniarch",
+      "Spellreaper Inferniarch"
+    ],
+    "icon": "icons/mummified_demon_finger.gif"
+  },
+  {
+    "name": "Mutated Bat Ear",
+    "category": "Części ciał",
+    "weight": "1.75",
+    "dropsFrom": [
+      "Mutated Bat",
+      "Bruise Payne"
+    ],
+    "icon": "icons/mutated_bat_ear.gif"
+  },
+  {
+    "name": "Mutated Flesh",
+    "category": "Części ciał",
+    "weight": "2.50",
+    "dropsFrom": [
+      "Mutated Human"
+    ],
+    "icon": "icons/mutated_flesh.gif"
+  },
+  {
+    "name": "Mutated Rat Tail",
+    "category": "Części ciał",
+    "weight": "1.43",
+    "dropsFrom": [
+      "Mutated Rat",
+      "Esmeralda"
+    ],
+    "icon": "icons/mutated_rat_tail.gif"
+  },
+  {
+    "name": "Naga Archer Scales",
+    "category": "Części ciał",
+    "weight": "0.30",
+    "dropsFrom": [
+      "Naga Archer"
+    ],
+    "icon": "icons/naga_archer_scales.gif"
+  },
+  {
+    "name": "Naga Armring",
+    "category": "Części ciał",
+    "weight": "3.50",
+    "dropsFrom": [
+      "Naga Archer",
+      "Naga Warrior"
+    ],
+    "icon": "icons/naga_armring.gif"
+  },
+  {
+    "name": "Naga Earring",
+    "category": "Części ciał",
+    "weight": "2.80",
+    "dropsFrom": [
+      "Naga Archer",
+      "Naga Warrior"
+    ],
+    "icon": "icons/naga_earring.gif"
+  },
+  {
+    "name": "Naga Warrior Scales",
+    "category": "Części ciał",
+    "weight": "0.30",
+    "dropsFrom": [
+      "Naga Warrior"
+    ],
+    "icon": "icons/naga_warrior_scales.gif"
+  },
+  {
+    "name": "Necromantic Core",
+    "category": "Części ciał",
+    "weight": "10.00",
+    "dropsFrom": [
+      "Creepy Crawler",
+      "Crypt Fiend",
+      "Crypt Mage",
+      "Cyclursus",
+      "Roaming Dread",
+      "Walking Dread"
+    ],
+    "icon": "icons/necromantic_core.gif"
+  },
+  {
+    "name": "Necromantic Rust",
+    "category": "Części ciał",
+    "weight": "1.50",
+    "dropsFrom": [
+      "Rustheap Golem",
+      "The False God"
+    ],
+    "icon": "icons/necromantic_rust.gif"
+  },
+  {
+    "name": "Night Harpy Feathers",
+    "category": "Części ciał",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Night Harpy"
+    ],
+    "icon": "icons/night_harpy_feathers.gif"
+  },
+  {
+    "name": "Nighthunter Wing",
+    "category": "Części ciał",
+    "weight": "1.40",
+    "dropsFrom": [
+      "Nighthunter"
+    ],
+    "icon": "icons/nighthunter_wing.gif"
+  },
+  {
+    "name": "Nimmersatt's Seal",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Dragolisk",
+      "Mega Dragon",
+      "Wardragon"
+    ],
+    "icon": "icons/nimmersatts_seal.gif"
+  },
+  {
+    "name": "Odd Organ",
+    "category": "Questowe",
+    "weight": "4.50",
+    "dropsFrom": [
+      "Brain Squid",
+      "Dread Intruder",
+      "Essence of Malice",
+      "Rupture",
+      "The Souldespoiler"
+    ],
+    "icon": "icons/odd_organ.gif"
+  },
+  {
+    "name": "Ogre Ear Stud",
+    "category": "Części ciał",
+    "weight": "16.00",
+    "dropsFrom": [
+      "Animated Ogre Brute",
+      "Animated Ogre Savage",
+      "Animated Ogre Shaman",
+      "Ogre Brute",
+      "Ogre Rowdy",
+      "Ogre Ruffian",
+      "Ogre Sage",
+      "Ogre Savage",
+      "Ogre Shaman"
+    ],
+    "icon": "icons/ogre_ear_stud.gif"
+  },
+  {
+    "name": "Old Girtablilu Carapace",
+    "category": "Części ciał",
+    "weight": "2.50",
+    "dropsFrom": [
+      "Venerable Girtablilu"
+    ],
+    "icon": "icons/old_girtablilu_carapace.gif"
+  },
+  {
+    "name": "Orcish Axe",
+    "category": "Topory",
+    "weight": "45.00",
+    "dropsFrom": [
+      "Orc Cult Fanatic",
+      "Orc Cult Inquisitor",
+      "Orc Cult Minion",
+      "Orc Cultist",
+      "Orc Marauder",
+      "Orc Rider",
+      "Orc Warlord",
+      "Orclops Bloodbreaker",
+      "Orclops Doomhauler",
+      "Orclops Ravager",
+      "Rorc",
+      "Bibby Bloodbath",
+      "Cublarc the Plunderer",
+      "Vladrukh",
+      "Warlord Ruzad"
+    ],
+    "icon": "icons/orcish_axe.gif"
+  },
+  {
+    "name": "Orcish Gear",
+    "category": "Części ciał",
+    "weight": "1.80",
+    "dropsFrom": [
+      "Orc Berserker",
+      "Orc Cult Inquisitor"
+    ],
+    "icon": "icons/orcish_gear.gif"
+  },
+  {
+    "name": "Orcish Toothbrush",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Orclops Bloodbreaker"
+    ],
+    "icon": "icons/orcish_toothbrush.gif"
+  },
+  {
+    "name": "Ornate Crossbow",
+    "category": "Kusze",
+    "weight": "91.00",
+    "dropsFrom": [
+      "Capricious Phantom",
+      "Cave Chimera",
+      "Deepling Guard",
+      "Deepling Master Librarian",
+      "Deepling Spellsinger",
+      "Deepling Tyrant",
+      "Eyeless Devourer",
+      "Feral Werecrocodile",
+      "Freakish Lost Soul",
+      "Harpy",
+      "Mitmah Scout",
+      "Mould Phantom",
+      "Naga Archer",
+      "Streaked Devourer",
+      "Usurper Archer",
+      "Adlerauge",
+      "Ayana The Crimson Curse",
+      "Katex Blood Tongue",
+      "Melting Frozen Horror",
+      "Vok the Freakish",
+      "Yirkas Blue Scales"
+    ],
+    "icon": "icons/ornate_crossbow.gif"
+  },
+  {
+    "name": "Pair of Hellflayer Horns",
+    "category": "Części ciał",
+    "weight": "12.00",
+    "dropsFrom": [
+      "Hellflayer"
+    ],
+    "icon": "icons/pair_of_hellflayer_horns.gif"
+  },
+  {
+    "name": "Paper Boat",
+    "category": "Części ciał",
+    "weight": "0.50",
+    "dropsFrom": [
+      "Bluebeak"
+    ],
+    "icon": "icons/paper_boat.gif"
+  },
+  {
+    "name": "Paper Plane",
+    "category": "Części ciał",
+    "weight": "0.50",
+    "dropsFrom": [
+      "Shell Drake"
+    ],
+    "icon": "icons/paper_plane.gif"
+  },
+  {
+    "name": "Piece of Draconian Steel",
+    "category": "Metale",
+    "weight": "5.00",
+    "dropsFrom": [
+      "Plaguesmith",
+      "Earl Osam",
+      "Soul of Dragonking Zyrtarch",
+      "The False God"
+    ],
+    "icon": "icons/piece_of_draconian_steel.gif"
+  },
+  {
+    "name": "Piece of Frozen Night",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Gloom Maw",
+      "Norcferatu Nightweaver"
+    ],
+    "icon": "icons/piece_of_frozen_night.gif"
+  },
+  {
+    "name": "Piece of Hell Steel",
+    "category": "Metale",
+    "weight": "5.00",
+    "dropsFrom": [
+      "Plaguesmith",
+      "Duke Krule",
+      "Earl Osam",
+      "Lloyd",
+      "Lord Azaram",
+      "Sir Baeloc",
+      "The False God",
+      "The Source of Corruption"
+    ],
+    "icon": "icons/piece_of_hell_steel.gif"
+  },
+  {
+    "name": "Piece of Warrior Armor",
+    "category": "Części ciał",
+    "weight": "1.10",
+    "dropsFrom": [
+      "Minotaur Guard",
+      "Minotaur Invader",
+      "The Horned Fox"
+    ],
+    "icon": "icons/piece_of_warrior_armor.gif"
+  },
+  {
+    "name": "Pirat's Tail",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Pirat Bombardier",
+      "Pirat Cutthroat",
+      "Pirat Mate",
+      "Pirat Scoundrel"
+    ],
+    "icon": "icons/pirats_tail.gif"
+  },
+  {
+    "name": "Pirate Coin",
+    "category": "Kosztowności",
+    "weight": "0.40",
+    "dropsFrom": [
+      "Pirat Bombardier",
+      "Pirat Cutthroat",
+      "Pirat Mate",
+      "Pirat Scoundrel",
+      "Ratmiral Blackwhiskers",
+      "Tentugly's Head"
+    ],
+    "icon": "icons/pirate_coin.gif"
+  },
+  {
+    "name": "Plasma Pearls",
+    "category": "Części ciał",
+    "weight": "3.50",
+    "dropsFrom": [
+      "Breach Brood",
+      "Dreadful Disruptor",
+      "Instable Breach Brood",
+      "Reality Reaver",
+      "Stabilizing Reality Reaver",
+      "Burster",
+      "Essence of Malice",
+      "Rupture",
+      "The Souldespoiler"
+    ],
+    "icon": "icons/plasma_pearls.gif"
+  },
+  {
+    "name": "Plasmatic Lightning",
+    "category": "Części ciał",
+    "weight": "7.00",
+    "dropsFrom": [
+      "Dreadful Disruptor",
+      "Reality Reaver",
+      "Eradicator",
+      "The Scourge of Oblivion"
+    ],
+    "icon": "icons/plasmatic_lightning.gif"
+  },
+  {
+    "name": "Plate Legs",
+    "category": "Nogawice",
+    "weight": "50.00",
+    "dropsFrom": [
+      "Bog Raider",
+      "Dragon",
+      "Ghastly Dragon",
+      "Giant Spider",
+      "Orc Cult Fanatic",
+      "Orc Leader",
+      "Orc Warlord",
+      "Renegade Orc",
+      "Sea Serpent",
+      "Undead Elite Gladiator",
+      "Undead Gladiator",
+      "Bibby Bloodbath",
+      "Countess Sorrow",
+      "Demodras",
+      "Grand Mother Foulscale",
+      "The Snapper",
+      "Warlord Ruzad"
+    ],
+    "icon": "icons/plate_legs.gif"
+  },
+  {
+    "name": "Poisoned Fang",
+    "category": "Części ciał",
+    "weight": "1.20",
+    "dropsFrom": [
+      "Blood Beast"
+    ],
+    "icon": "icons/poisoned_fang.gif"
+  },
+  {
+    "name": "Pool of Chitinous Glue",
+    "category": "Części ciał",
+    "weight": "2.70",
+    "dropsFrom": [
+      "Retching Horror"
+    ],
+    "icon": "icons/pool_of_chitinous_glue.gif"
+  },
+  {
+    "name": "Pot of Orcish Warpaint",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Norcferatu Heartless"
+    ],
+    "icon": "icons/pot_of_orcish_warpaint.gif"
+  },
+  {
+    "name": "Prehemoth Claw",
+    "category": "Części ciał",
+    "weight": "8.50",
+    "dropsFrom": [
+      "Hulking Prehemoth"
+    ],
+    "icon": "icons/prehemoth_claw.gif"
+  },
+  {
+    "name": "Prehemoth Horns",
+    "category": "Części ciał",
+    "weight": "11.00",
+    "dropsFrom": [
+      "Hulking Prehemoth"
+    ],
+    "icon": "icons/prehemoth_horns.gif"
+  },
+  {
+    "name": "Pressed Flower",
+    "category": "Części ciał",
+    "weight": "0.05",
+    "dropsFrom": [
+      "Hawk Hopper"
+    ],
+    "icon": "icons/pressed_flower.gif"
+  },
+  {
+    "name": "Pulverized Ore",
+    "category": "Części ciał",
+    "weight": "1.70",
+    "dropsFrom": [
+      "Cliff Strider",
+      "Drillworm",
+      "Orewalker"
+    ],
+    "icon": "icons/pulverized_ore.gif"
+  },
+  {
+    "name": "Quara Bone",
+    "category": "Części ciał",
+    "weight": "1.44",
+    "dropsFrom": [
+      "Quara Predator",
+      "Quara Predator Scout",
+      "Renegade Quara Predator"
+    ],
+    "icon": "icons/quara_bone.gif"
+  },
+  {
+    "name": "Quara Eye",
+    "category": "Części ciał",
+    "weight": "0.80",
+    "dropsFrom": [
+      "Quara Hydromancer",
+      "Quara Hydromancer Scout",
+      "Renegade Quara Hydromancer"
+    ],
+    "icon": "icons/quara_eye.gif"
+  },
+  {
+    "name": "Quara Pincers",
+    "category": "Części ciał",
+    "weight": "1.20",
+    "dropsFrom": [
+      "Quara Pincher",
+      "Quara Pincher Scout",
+      "Quara Raider",
+      "Renegade Quara Pincher"
+    ],
+    "icon": "icons/quara_pincers.gif"
+  },
+  {
+    "name": "Quara Tentacle",
+    "category": "Części ciał",
+    "weight": "1.07",
+    "dropsFrom": [
+      "Quara Constrictor",
+      "Quara Constrictor Scout",
+      "Renegade Quara Constrictor"
+    ],
+    "icon": "icons/quara_tentacle.gif"
+  },
+  {
+    "name": "Ratana",
+    "category": "Miecze",
+    "weight": "33.00",
+    "dropsFrom": [
+      "Corym Charlatan",
+      "Corym Skirmisher",
+      "Corym Vanguard",
+      "Werehyaena"
+    ],
+    "icon": "icons/ratana.gif"
+  },
+  {
+    "name": "Raw Meat",
+    "category": "Części ciał",
+    "weight": "28.00",
+    "dropsFrom": [
+      "Animated Clomp",
+      "Clomp",
+      "Museum Stone Rhino",
+      "Stone Rhino"
+    ],
+    "icon": "icons/raw_meat.gif"
+  },
+  {
+    "name": "Red Goanna Scale",
+    "category": "Części ciał",
+    "weight": "0.90",
+    "dropsFrom": [
+      "Adult Goanna",
+      "Sun-marked Goanna"
+    ],
+    "icon": "icons/red_goanna_scale.gif"
+  },
+  {
+    "name": "Red Hair Dye",
+    "category": "Części ciał",
+    "weight": "2.10",
+    "dropsFrom": [
+      "Lost Basher",
+      "Lost Exile",
+      "Lost Husher",
+      "Lost Thrower"
+    ],
+    "icon": "icons/red_hair_dye.gif"
+  },
+  {
+    "name": "Relic Sword",
+    "category": "Miecze",
+    "weight": "48.00",
+    "dropsFrom": [
+      "Eyeless Devourer",
+      "Naga Warrior",
+      "Priestess of the Wild Sun",
+      "Quara Predator",
+      "Renegade Quara Predator",
+      "Spectre",
+      "Streaked Devourer",
+      "Undead Elite Gladiator",
+      "Undertaker",
+      "Werebear",
+      "Werewolf",
+      "Feroxa",
+      "Madareth",
+      "Shadowpelt",
+      "Thul"
+    ],
+    "icon": "icons/relic_sword.gif"
+  },
+  {
+    "name": "Resin Parasite",
+    "category": "Części ciał",
+    "weight": "0.25",
+    "dropsFrom": [
+      "Rootthing Amber Shaper",
+      "Rootthing Bug Tracker",
+      "Rootthing Nutshell"
+    ],
+    "icon": "icons/resin_parasite.gif"
+  },
+  {
+    "name": "Resinous Fish Fin",
+    "category": "Części ciał",
+    "weight": "0.25",
+    "dropsFrom": [
+      "Quara Looter",
+      "Quara Plunderer",
+      "Quara Raider"
+    ],
+    "icon": "icons/resinous_fish_fin.gif"
+  },
+  {
+    "name": "Rhindeer Antlers",
+    "category": "Części ciał",
+    "weight": "5.70",
+    "dropsFrom": [
+      "Rhindeer"
+    ],
+    "icon": "icons/rhindeer_antlers.gif"
+  },
+  {
+    "name": "Ripper Lance",
+    "category": "Topory",
+    "weight": "80.00",
+    "dropsFrom": [
+      "Cunning Werepanther",
+      "Dworc Fleshhunter",
+      "Dworc Shadowstalker",
+      "Insectoid Scout",
+      "Sopping Carcass",
+      "Werepanther",
+      "Fleshslicer",
+      "Mindmasher"
+    ],
+    "icon": "icons/ripper_lance.gif"
+  },
+  {
+    "name": "Ripptor Claw",
+    "category": "Części ciał",
+    "weight": "2.80",
+    "dropsFrom": [
+      "Noxious Ripptor"
+    ],
+    "icon": "icons/ripptor_claw.gif"
+  },
+  {
+    "name": "Ripptor Scales",
+    "category": "Części ciał",
+    "weight": "0.30",
+    "dropsFrom": [
+      "Noxious Ripptor"
+    ],
+    "icon": "icons/ripptor_scales.gif"
+  },
+  {
+    "name": "Ritual Bone Knife",
+    "category": "Miecze",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Varg"
+    ],
+    "icon": "icons/ritual_bone_knife.gif"
+  },
+  {
+    "name": "Ritual Tooth",
+    "category": "Części ciał",
+    "weight": "0.55",
+    "dropsFrom": [
+      "Iks Ahpututu",
+      "Iks Aucar",
+      "Iks Chuka",
+      "Iks Pututu",
+      "Iks Yapunac",
+      "Ahau"
+    ],
+    "icon": "icons/ritual_tooth.gif"
+  },
+  {
+    "name": "Roots",
+    "category": "Części ciał",
+    "weight": "0.90",
+    "dropsFrom": [
+      "Branchy Crawler"
+    ],
+    "icon": "icons/roots.gif"
+  },
+  {
+    "name": "Rotten Feather",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Iks Ahpututu",
+      "Iks Aucar",
+      "Iks Chuka",
+      "Iks Pututu",
+      "Ahau"
+    ],
+    "icon": "icons/rotten_feather.gif"
+  },
+  {
+    "name": "Rotten Piece of Cloth",
+    "category": "Części ciał",
+    "weight": "0.60",
+    "dropsFrom": [
+      "Ghoul"
+    ],
+    "icon": "icons/rotten_piece_of_cloth.gif"
+  },
+  {
+    "name": "Rotten Roots",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Bloated Man-Maggot",
+      "Meandering Mushroom",
+      "Mycobiontic Beetle",
+      "Oozing Carcass",
+      "Oozing Corpus",
+      "Rotten Man-Maggot",
+      "Sopping Carcass",
+      "Sopping Corpus"
+    ],
+    "icon": "icons/rotten_roots.gif"
+  },
+  {
+    "name": "Rubber Cap",
+    "category": "Hełmy",
+    "weight": "8.00",
+    "dropsFrom": [
+      "Darklight Matter",
+      "Glooth Bandit",
+      "Glooth Brigand",
+      "Glooth Golem",
+      "Rotten Golem",
+      "Turbulent Elemental",
+      "Glooth Fairy"
+    ],
+    "icon": "icons/rubber_cap.gif"
+  },
+  {
+    "name": "Sabretooth Fur",
+    "category": "Części ciał",
+    "weight": "1.35",
+    "dropsFrom": [
+      "Sabretooth"
+    ],
+    "icon": "icons/sabretooth_fur.gif"
+  },
+  {
+    "name": "Sandcrawler Shell",
+    "category": "Części ciał",
+    "weight": "0.75",
+    "dropsFrom": [
+      "Sandcrawler"
+    ],
+    "icon": "icons/sandcrawler_shell.gif"
+  },
+  {
+    "name": "Scale of Corruption",
+    "category": "Części ciał",
+    "weight": "0.93",
+    "dropsFrom": [
+      "Draken Abomination",
+      "Lizard Chosen"
+    ],
+    "icon": "icons/scale_of_corruption.gif"
+  },
+  {
+    "name": "Scarab Pincers",
+    "category": "Części ciał",
+    "weight": "2.30",
+    "dropsFrom": [
+      "Ancient Scarab",
+      "Ancient Spawn of Morgathla",
+      "Fleshcrawler"
+    ],
+    "icon": "icons/scarab_pincers.gif"
+  },
+  {
+    "name": "Scimitar",
+    "category": "Miecze",
+    "weight": "29.00",
+    "dropsFrom": [
+      "Burning Book",
+      "Cobra Assassin",
+      "Crazed Summer Vanguard",
+      "Diabolic Imp",
+      "Fire Devil",
+      "Honour Guard",
+      "Naga Warrior",
+      "Orc Leader",
+      "Orc Warlord",
+      "Renegade Orc",
+      "Salamander",
+      "Undead Elite Gladiator",
+      "Undead Gladiator",
+      "Ushuriel",
+      "Warlord Ruzad"
+    ],
+    "icon": "icons/scimitar.gif"
+  },
+  {
+    "name": "Scorpion Charm",
+    "category": "Części ciał",
+    "weight": "2.50",
+    "dropsFrom": [
+      "Venerable Girtablilu",
+      "Girtablilu Warrior"
+    ],
+    "icon": "icons/scorpion_charm.gif"
+  },
+  {
+    "name": "Scroll of Heroic Deeds",
+    "category": "Części ciał",
+    "weight": "0.79",
+    "dropsFrom": [
+      "Hero",
+      "Renegade Knight",
+      "Vile Grandmaster"
+    ],
+    "icon": "icons/scroll_of_heroic_deeds.gif"
+  },
+  {
+    "name": "Scythe Leg",
+    "category": "Części ciał",
+    "weight": "1.50",
+    "dropsFrom": [
+      "Nightmare",
+      "Nightmare Scion",
+      "Tormentor"
+    ],
+    "icon": "icons/scythe_leg.gif"
+  },
+  {
+    "name": "Sealing Wax",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Lion Hydra"
+    ],
+    "icon": "icons/sealing_wax.gif"
+  },
+  {
+    "name": "Shaggy Tail",
+    "category": "Części ciał",
+    "weight": "1.12",
+    "dropsFrom": [
+      "Gnarlhound",
+      "Orc Marauder",
+      "Cublarc the Plunderer",
+      "Fleabringer"
+    ],
+    "icon": "icons/shaggy_tail.gif"
+  },
+  {
+    "name": "Shamanic Talisman",
+    "category": "Części ciał",
+    "weight": "1.28",
+    "dropsFrom": [
+      "Animated Ogre Shaman",
+      "Ogre Sage",
+      "Ogre Shaman"
+    ],
+    "icon": "icons/shamanic_talisman.gif"
+  },
+  {
+    "name": "Shark Fins",
+    "category": "Części ciał",
+    "weight": "6.20",
+    "dropsFrom": [
+      "Pirat Cutthroat",
+      "Pirat Mate"
+    ],
+    "icon": "icons/shark_fins.gif"
+  },
+  {
+    "name": "Shimmering Beetles",
+    "category": "Części ciał",
+    "weight": "1.70",
+    "dropsFrom": [
+      "Arctic Faun",
+      "Boogy",
+      "Dark Faun",
+      "Faun",
+      "Pooka",
+      "Twisted Pooka",
+      "Raxias"
+    ],
+    "icon": "icons/shimmering_beetles.gif"
+  },
+  {
+    "name": "Shiny Stone",
+    "category": "Części ciał",
+    "weight": "1.56",
+    "dropsFrom": [
+      "Cliff Strider",
+      "Crystal Wolf",
+      "Enslaved Dwarf",
+      "Eternal Guardian",
+      "Gargoyle",
+      "Ghastly Dragon",
+      "Ironblight",
+      "Metal Gargoyle",
+      "Museum Stone Golem",
+      "Orewalker",
+      "Spectre",
+      "Stone Golem",
+      "Earth Overlord",
+      "Ethershreck",
+      "Fahim The Wise",
+      "Grorlam",
+      "Merikh the Slaughterer",
+      "Stonecracker",
+      "The Shatterer"
+    ],
+    "icon": "icons/shiny_stone.gif"
+  },
+  {
+    "name": "Silencer Resonating Chamber",
+    "category": "Części ciał",
+    "weight": "3.50",
+    "dropsFrom": [
+      "Silencer"
+    ],
+    "icon": "icons/silencer_resonating_chamber.gif"
+  },
+  {
+    "name": "Silken Bookmark",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Biting Book",
+      "Burning Book",
+      "Cursed Book",
+      "Energetic Book",
+      "Icecold Book",
+      "Knowledge Elemental"
+    ],
+    "icon": "icons/silken_bookmark.gif"
+  },
+  {
+    "name": "Silver Moon Coin",
+    "category": "Części ciał",
+    "weight": "2.80",
+    "dropsFrom": [
+      "Weretiger",
+      "White Weretiger",
+      "Tamru The Black"
+    ],
+    "icon": "icons/silver_moon_coin.gif"
+  },
+  {
+    "name": "Silver Poniard",
+    "category": "Części ciał",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Raubritter Chastener",
+      "Raubritter Skirmisher",
+      "Clavius",
+      "Michael the Stalwart",
+      "Overseer Osverger"
+    ],
+    "icon": "icons/silver_poniard.gif"
+  },
+  {
+    "name": "Sineater Wing",
+    "category": "Części ciał",
+    "weight": "4.70",
+    "dropsFrom": [
+      "Sineater Inferniarch"
+    ],
+    "icon": "icons/sineater_wing.gif"
+  },
+  {
+    "name": "Single Human Eye",
+    "category": "Części ciał",
+    "weight": "0.60",
+    "dropsFrom": [
+      "Putrid Mummy"
+    ],
+    "icon": "icons/single_human_eye.gif"
+  },
+  {
+    "name": "Skull Fetish",
+    "category": "Questowe",
+    "weight": "4.40",
+    "dropsFrom": [
+      "Animated Ogre Brute",
+      "Animated Ogre Savage",
+      "Animated Ogre Shaman",
+      "Ogre Brute",
+      "Ogre Rowdy",
+      "Ogre Ruffian",
+      "Ogre Sage",
+      "Ogre Savage",
+      "Ogre Shaman",
+      "The Unarmored Voidborn"
+    ],
+    "icon": "icons/skull_fetish.gif"
+  },
+  {
+    "name": "Skullcracker Armor",
+    "category": "Zbroje",
+    "weight": "110.00",
+    "dropsFrom": [
+      "Bony Sea Devil",
+      "Frost Flower Asura",
+      "Grim Reaper",
+      "Haunted Dragon",
+      "Midnight Asura",
+      "Sopping Corpus",
+      "True Frost Flower Asura",
+      "True Midnight Asura",
+      "Undead Dragon",
+      "Annihilon",
+      "Feroxa",
+      "The Moonlight Aster",
+      "The Scourge of Oblivion",
+      "Zavarash"
+    ],
+    "icon": "icons/skullcracker_armor.gif"
+  },
+  {
+    "name": "Slimy Leaf Tentacle",
+    "category": "Części ciał",
+    "weight": "3.00",
+    "dropsFrom": [
+      "Glooth Anemone",
+      "Lisa"
+    ],
+    "icon": "icons/slimy_leaf_tentacle.gif"
+  },
+  {
+    "name": "Sliver",
+    "category": "Pozostałe",
+    "weight": "0.10",
+    "dropsFrom": [
+      "Ten przedmiot nie wypada z żadnego potwora."
+    ],
+    "icon": "icons/sliver.gif"
+  },
+  {
+    "name": "Small Flask of Eyedrops",
+    "category": "Części ciał",
+    "weight": "0.50",
+    "dropsFrom": [
+      "Bonelord",
+      "Elder Bonelord",
+      "Gazer",
+      "Bonelord's Phylactery",
+      "The Evil Eye",
+      "The Gravedigger"
+    ],
+    "icon": "icons/small_flask_of_eyedrops.gif"
+  },
+  {
+    "name": "Small Notebook",
+    "category": "Części ciał",
+    "weight": "0.80",
+    "dropsFrom": [
+      "Hero",
+      "Renegade Knight",
+      "Vile Grandmaster"
+    ],
+    "icon": "icons/small_notebook.gif"
+  },
+  {
+    "name": "Small Treasure Chest",
+    "category": "Części ciał",
+    "weight": "8.00",
+    "dropsFrom": [
+      "Pirat Mate",
+      "Ratmiral Blackwhiskers",
+      "Tentugly's Head"
+    ],
+    "icon": "icons/small_treasure_chest.gif"
+  },
+  {
+    "name": "Small Tropical Fish",
+    "category": "Części ciał",
+    "weight": "2.20",
+    "dropsFrom": [
+      "Two-Headed Turtle"
+    ],
+    "icon": "icons/small_tropical_fish.gif"
+  },
+  {
+    "name": "Spark Sphere",
+    "category": "Części ciał",
+    "weight": "5.00",
+    "dropsFrom": [
+      "Breach Brood",
+      "Burster",
+      "Eradicator",
+      "Melting Frozen Horror",
+      "The Scourge of Oblivion",
+      "The Souldespoiler"
+    ],
+    "icon": "icons/spark_sphere.gif"
+  },
+  {
+    "name": "Sparkion Claw",
+    "category": "Części ciał",
+    "weight": "8.00",
+    "dropsFrom": [
+      "Instable Sparkion",
+      "Sparkion"
+    ],
+    "icon": "icons/sparkion_claw.gif"
+  },
+  {
+    "name": "Sparkion Legs",
+    "category": "Części ciał",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Instable Sparkion",
+      "Sparkion"
+    ],
+    "icon": "icons/sparkion_legs.gif"
+  },
+  {
+    "name": "Sparkion Stings",
+    "category": "Części ciał",
+    "weight": "3.50",
+    "dropsFrom": [
+      "Instable Sparkion",
+      "Sparkion"
+    ],
+    "icon": "icons/sparkion_stings.gif"
+  },
+  {
+    "name": "Sparkion Tail",
+    "category": "Części ciał",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Instable Sparkion",
+      "Sparkion"
+    ],
+    "icon": "icons/sparkion_tail.gif"
+  },
+  {
+    "name": "Spellbook of Mind Control",
+    "category": "Tarcze",
+    "weight": "24.50",
+    "dropsFrom": [
+      "Blood Priest",
+      "Brachiodemon",
+      "Bulltaur Forgepriest",
+      "Carnivostrich",
+      "Choking Fear",
+      "Crypt Mage",
+      "Dawnfire Asura",
+      "Frost Flower Asura",
+      "Hellflayer",
+      "Infernalist",
+      "Lava Golem",
+      "Midnight Asura",
+      "Nighthunter",
+      "Quara Plunderer",
+      "Serpent Spawn",
+      "Soul-broken Harbinger",
+      "Spellreaper Inferniarch",
+      "True Dawnfire Asura",
+      "True Frost Flower Asura",
+      "True Midnight Asura",
+      "Ferumbras",
+      "Ferumbras Mortal Shell",
+      "Ghazbaran",
+      "Gorzindel",
+      "Hellgorak",
+      "Horadron",
+      "Raging Mage",
+      "Reflection of a Mage",
+      "Soul of Dragonking Zyrtarch",
+      "The Moonlight Aster",
+      "The Noxious Spawn",
+      "Wrathful Archivist",
+      "Yaga the Crone",
+      "Yirkas Blue Scales",
+      "Zarabustor"
+    ],
+    "icon": "icons/spellbook_of_mind_control.gif"
+  },
+  {
+    "name": "Spellsinger's Seal",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Deepling Master Librarian",
+      "Deepling Spellsinger"
+    ],
+    "icon": "icons/spellsingers_seal.gif"
+  },
+  {
+    "name": "Spellweaver's Robe",
+    "category": "Zbroje",
+    "weight": "23.50",
+    "dropsFrom": [
+      "Brain Squid",
+      "Bulltaur Alchemist",
+      "Burning Gladiator",
+      "Draken Spellweaver",
+      "Energetic Book",
+      "Energuardian of Tales",
+      "Ghastly Dragon",
+      "Haunted Dragon",
+      "Juvenile Bashmu",
+      "Knowledge Elemental",
+      "Undead Dragon",
+      "Arbaziloth (Hard)",
+      "Dragon Hoard",
+      "Ethershreck",
+      "Hatebreeder",
+      "Lady Tenebris",
+      "Lloyd",
+      "The Duke of the Depths",
+      "Utua Stone Sting",
+      "Wrathful Archivist",
+      "Yirkas Blue Scales",
+      "Zamulosh"
+    ],
+    "icon": "icons/spellweavers_robe.gif"
+  },
+  {
+    "name": "Sphinx Tiara",
+    "category": "Części ciał",
+    "weight": "3.50",
+    "dropsFrom": [
+      "Feral Sphinx",
+      "Sphinx"
+    ],
+    "icon": "icons/sphinx_tiara.gif"
+  },
+  {
+    "name": "Spiked Bracers",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Norcferatu Nightweaver"
+    ],
+    "icon": "icons/spiked_bracers.gif"
+  },
+  {
+    "name": "Spiked Gorget",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Norcferatu Heartless"
+    ],
+    "icon": "icons/spiked_gorget.gif"
+  },
+  {
+    "name": "Spiked Iron Ball",
+    "category": "Części ciał",
+    "weight": "1.25",
+    "dropsFrom": [
+      "Eternal Guardian",
+      "Lizard Chosen",
+      "Lizard High Guard",
+      "The Voice of Ruin"
+    ],
+    "icon": "icons/spiked_iron_ball.gif"
+  },
+  {
+    "name": "Spiky Club",
+    "category": "Obuchy",
+    "weight": "39.00",
+    "dropsFrom": [
+      "Corym Skirmisher",
+      "Corym Vanguard",
+      "Orger",
+      "Naga Warrior"
+    ],
+    "icon": "icons/spiky_club.gif"
+  },
+  {
+    "name": "Spitter Nose",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Spitter",
+      "Rotspit",
+      "The Hungerer"
+    ],
+    "icon": "icons/spitter_nose.gif"
+  },
+  {
+    "name": "Staff Piece",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Bulltaur Forgepriest"
+    ],
+    "icon": "icons/staff_piece.gif"
+  },
+  {
+    "name": "Stag Parchment",
+    "category": "Części ciał",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Raubritter Chastener",
+      "Raubritter Marksman",
+      "Adlerauge",
+      "Clavius",
+      "Overseer Osverger"
+    ],
+    "icon": "icons/stag_parchment.gif"
+  },
+  {
+    "name": "Stalking Seeds",
+    "category": "Części ciał",
+    "weight": "0.40",
+    "dropsFrom": [
+      "Stalking Stalk"
+    ],
+    "icon": "icons/stalking_seeds.gif"
+  },
+  {
+    "name": "Stampor Talons",
+    "category": "Części ciał",
+    "weight": "1.70",
+    "dropsFrom": [
+      "Stampor",
+      "Tromphonyte"
+    ],
+    "icon": "icons/stampor_talons.gif"
+  },
+  {
+    "name": "Star Ink",
+    "category": "Części ciał",
+    "weight": "0.60",
+    "dropsFrom": [
+      "Bluebeak",
+      "Ink Splash"
+    ],
+    "icon": "icons/star_ink.gif"
+  },
+  {
+    "name": "Stone Wing",
+    "category": "Części ciał",
+    "weight": "1.53",
+    "dropsFrom": [
+      "Gargoyle"
+    ],
+    "icon": "icons/stone_wing.gif"
+  },
+  {
+    "name": "Stonerefiner's Skull",
+    "category": "Części ciał",
+    "weight": "3.00",
+    "dropsFrom": [
+      "Stonerefiner"
+    ],
+    "icon": "icons/stonerefiners_skull.gif"
+  },
+  {
+    "name": "Strange Helmet",
+    "category": "Hełmy",
+    "weight": "46.00",
+    "dropsFrom": [
+      "Albino Dragon",
+      "Dragon Lord",
+      "Frost Dragon",
+      "Ice Golem",
+      "Icecold Book",
+      "Lavaworm",
+      "Lich",
+      "Quara Mantassin",
+      "Renegade Quara Mantassin",
+      "Serpent Spawn",
+      "Vampire",
+      "Walking Pillar",
+      "Adlerauge",
+      "Arbaziloth",
+      "Arbaziloth (Hard)",
+      "Blight Mariner",
+      "Clavius",
+      "Demodras",
+      "Dragon Hoard",
+      "Gravelord Oshuran",
+      "Hirintror",
+      "Michael the Stalwart",
+      "Overseer Osverger",
+      "Ushuriel"
+    ],
+    "icon": "icons/strange_helmet.gif"
+  },
+  {
+    "name": "Strange Substance",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Bulltaur Alchemist"
+    ],
+    "icon": "icons/strange_substance.gif"
+  },
+  {
+    "name": "Streaked Devourer Eyes",
+    "category": "Części ciał",
+    "weight": "0.80",
+    "dropsFrom": [
+      "Streaked Devourer"
+    ],
+    "icon": "icons/streaked_devourer_eyes.gif"
+  },
+  {
+    "name": "Streaked Devourer Legs",
+    "category": "Części ciał",
+    "weight": "2.40",
+    "dropsFrom": [
+      "Streaked Devourer"
+    ],
+    "icon": "icons/streaked_devourer_legs.gif"
+  },
+  {
+    "name": "Streaked Devourer Maw",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Streaked Devourer"
+    ],
+    "icon": "icons/streaked_devourer_maw.gif"
+  },
+  {
+    "name": "Striped Fur",
+    "category": "Części ciał",
+    "weight": "1.20",
+    "dropsFrom": [
+      "Mutated Tiger",
+      "Tiger",
+      "White Tiger"
+    ],
+    "icon": "icons/striped_fur.gif"
+  },
+  {
+    "name": "Sulphider Shell",
+    "category": "Części ciał",
+    "weight": "1.50",
+    "dropsFrom": [
+      "Sulphider"
+    ],
+    "icon": "icons/sulphider_shell.gif"
+  },
+  {
+    "name": "Sulphur Powder",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Sulphider",
+      "Sulphur Spouter"
+    ],
+    "icon": "icons/sulphur_powder.gif"
+  },
+  {
+    "name": "Sulphurous Stone",
+    "category": "Części ciał",
+    "weight": "1.42",
+    "dropsFrom": [
+      "Brimstone Bug",
+      "Museum Stone Golem",
+      "Orewalker",
+      "Stone Golem",
+      "Wandering Pillar",
+      "Grorlam",
+      "Sulphur Scuttler"
+    ],
+    "icon": "icons/sulphurous_stone.gif"
+  },
+  {
+    "name": "Swampling Club",
+    "category": "Obuchy",
+    "weight": "31.00",
+    "dropsFrom": [
+      "Leaf Golem",
+      "Minotaur Occultist",
+      "Swampling",
+      "Wilting Leaf Golem"
+    ],
+    "icon": "icons/swampling_club.gif"
+  },
+  {
+    "name": "Swarmer Antenna",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Swarmer"
+    ],
+    "icon": "icons/swarmer_antenna.gif"
+  },
+  {
+    "name": "Tail of Corruption",
+    "category": "Części ciał",
+    "weight": "0.93",
+    "dropsFrom": [
+      "Draken Abomination"
+    ],
+    "icon": "icons/tail_of_corruption.gif"
+  },
+  {
+    "name": "Taurus Mace",
+    "category": "Obuchy",
+    "weight": "51.00",
+    "dropsFrom": [
+      "Minotaur Cult Zealot",
+      "Minotaur Mage",
+      "Worm Priestess"
+    ],
+    "icon": "icons/taurus_mace.gif"
+  },
+  {
+    "name": "Telescope Eye",
+    "category": "Części ciał",
+    "weight": "0.30",
+    "dropsFrom": [
+      "Cloak of Terror"
+    ],
+    "icon": "icons/telescope_eye.gif"
+  },
+  {
+    "name": "Terra Boots",
+    "category": "Buty",
+    "weight": "7.50",
+    "dropsFrom": [
+      "Armadile",
+      "Choking Fear",
+      "Cobra Vizier",
+      "Cursed Book",
+      "Dwarf Geomancer",
+      "Enfeebled Silencer",
+      "Exotic Cave Spider",
+      "Foam Stalker",
+      "Ghastly Dragon",
+      "Glooth Bandit",
+      "Glooth Brigand",
+      "Hideous Fungus",
+      "Hulking Carnisylvan",
+      "Humongous Fungus",
+      "Ink Blob",
+      "Ink Splash",
+      "Lost Basher",
+      "Lost Berserker",
+      "Lost Exile",
+      "Lost Husher",
+      "Mercurial Menace",
+      "Ogre Sage",
+      "Omnivora",
+      "Oozing Corpus",
+      "Pirat Bombardier",
+      "Shrieking Cry-Stal",
+      "Silencer",
+      "Thanatursus",
+      "Undertaker",
+      "Venerable Foam Stalker",
+      "White Lion",
+      "Blight Mariner",
+      "Deathbine",
+      "Neferi the Spy",
+      "Ravenous Hunger",
+      "Sister Hetai",
+      "Terofar"
+    ],
+    "icon": "icons/terra_boots.gif"
+  },
+  {
+    "name": "Terra Hood",
+    "category": "Hełmy",
+    "weight": "10.00",
+    "dropsFrom": [
+      "Adult Goanna",
+      "Ancient Scarab",
+      "Bramble Wyrmling",
+      "Cobra Vizier",
+      "Cursed Book",
+      "Draken Abomination",
+      "Earworm",
+      "Glooth Bandit",
+      "Glooth Brigand",
+      "Hulking Carnisylvan",
+      "Ink Blob",
+      "Ink Splash",
+      "Lamassu",
+      "Rootthing Nutshell",
+      "Sun-marked Goanna",
+      "Thanatursus",
+      "Usurper Warlock",
+      "Young Goanna",
+      "Ancient Spawn of Morgathla",
+      "Arthom the Hunter",
+      "Clavius",
+      "Court Warlock",
+      "Drume",
+      "Duke Krule",
+      "Guard Captain Quaid",
+      "Hide",
+      "Kusuma",
+      "Megasylvan Yselda",
+      "Neferi the Spy",
+      "Overseer Osverger",
+      "Scarlett Etzel",
+      "Sister Hetai",
+      "The Unarmored Voidborn"
+    ],
+    "icon": "icons/terra_hood.gif"
+  },
+  {
+    "name": "Terra Mantle",
+    "category": "Zbroje",
+    "weight": "22.50",
+    "dropsFrom": [
+      "Askarak Lord",
+      "Askarak Prince",
+      "Banshee",
+      "Blightwalker",
+      "Bramble Wyrmling",
+      "Choking Fear",
+      "Cursed Book",
+      "Exotic Cave Spider",
+      "Feral Werecrocodile",
+      "Glooth Bandit",
+      "Glooth Brigand",
+      "Hideous Fungus",
+      "Humongous Fungus",
+      "Ink Blob",
+      "Ink Splash",
+      "Medusa",
+      "Raubritter Marksman",
+      "Rotten Golem",
+      "Spiky Carnivor",
+      "Adlerauge",
+      "Ancient Spawn of Morgathla",
+      "Ayana The Crimson Curse",
+      "Court Warlock",
+      "Drume",
+      "Earth Overlord",
+      "Esmeralda",
+      "Fleshcrawler",
+      "Gorga",
+      "Gorgo",
+      "King Zelos",
+      "Megasylvan Yselda",
+      "Plagirath",
+      "Ravenous Hunger",
+      "Scarlett Etzel",
+      "The Duke of the Depths",
+      "The Evil Eye",
+      "The Lord of the Lice"
+    ],
+    "icon": "icons/terra_mantle.gif"
+  },
+  {
+    "name": "Terramite Legs",
+    "category": "Części ciał",
+    "weight": "1.15",
+    "dropsFrom": [
+      "Terramite"
+    ],
+    "icon": "icons/terramite_legs.gif"
+  },
+  {
+    "name": "Thorn",
+    "category": "Części ciał",
+    "weight": "1.20",
+    "dropsFrom": [
+      "Thornback Tortoise"
+    ],
+    "icon": "icons/thorn.gif"
+  },
+  {
+    "name": "Titan Axe",
+    "category": "Topory",
+    "weight": "81.00",
+    "dropsFrom": [
+      "Afflicted Strider",
+      "Armadile",
+      "Behemoth",
+      "Enslaved Dwarf",
+      "Execowtioner",
+      "Falcon Knight",
+      "Headpecker",
+      "Hellflayer",
+      "Infernal Phantom",
+      "Juggernaut",
+      "Lion Hydra",
+      "Lost Soul",
+      "Medusa",
+      "Minotaur Invader",
+      "Orewalker",
+      "Rhindeer",
+      "Rotten Golem",
+      "Silencer",
+      "Spidris",
+      "Spidris Elite",
+      "Thanatursus",
+      "Werelion",
+      "Fleshslicer",
+      "Gorga",
+      "Gorgo",
+      "Grand Chaplain Gaunder",
+      "Preceptor Lazare"
+    ],
+    "icon": "icons/titan_axe.gif"
+  },
+  {
+    "name": "Toe Nails",
+    "category": "Części ciał",
+    "weight": "10.00",
+    "dropsFrom": [
+      "Crypt Construct",
+      "Crypt Mage",
+      "Haunted Hunter",
+      "Roaming Dread",
+      "Walking Dread"
+    ],
+    "icon": "icons/toe_nails.gif"
+  },
+  {
+    "name": "Tooth File",
+    "category": "Części ciał",
+    "weight": "5.10",
+    "dropsFrom": [
+      "Nightfiend",
+      "Vampire Viscount",
+      "Vicious Manbat"
+    ],
+    "icon": "icons/tooth_file.gif"
+  },
+  {
+    "name": "Torn Page",
+    "category": "Części ciał",
+    "weight": "0.20",
+    "dropsFrom": [
+      "Crusader",
+      "Headwalker"
+    ],
+    "icon": "icons/torn_page.gif"
+  },
+  {
+    "name": "Trapped Bad Dream Monster",
+    "category": "Części ciał",
+    "weight": "12.00",
+    "dropsFrom": [
+      "Feversleep",
+      "Shiversleep",
+      "Terrorsleep",
+      "The Enraged Thorn Knight"
+    ],
+    "icon": "icons/trapped_bad_dream_monster.gif"
+  },
+  {
+    "name": "Tunnel Tyrant Head",
+    "category": "Części ciał",
+    "weight": "1.80",
+    "dropsFrom": [
+      "Tunnel Tyrant"
+    ],
+    "icon": "icons/tunnel_tyrant_head.gif"
+  },
+  {
+    "name": "Tunnel Tyrant Shell",
+    "category": "Części ciał",
+    "weight": "2.50",
+    "dropsFrom": [
+      "Tunnel Tyrant"
+    ],
+    "icon": "icons/tunnel_tyrant_shell.gif"
+  },
+  {
+    "name": "Two-Headed Turtle Heads",
+    "category": "Części ciał",
+    "weight": "7.60",
+    "dropsFrom": [
+      "Two-Headed Turtle"
+    ],
+    "icon": "icons/twoheaded_turtle_heads.gif"
+  },
+  {
+    "name": "Undertaker Fangs",
+    "category": "Części ciał",
+    "weight": "0.75",
+    "dropsFrom": [
+      "Undertaker"
+    ],
+    "icon": "icons/undertaker_fangs.gif"
+  },
+  {
+    "name": "Unholy Bone",
+    "category": "Części ciał",
+    "weight": "1.25",
+    "dropsFrom": [
+      "Betrayed Wraith",
+      "Crypt Warrior",
+      "Gravedigger",
+      "Haunted Dragon",
+      "Lost Soul",
+      "Skeleton Elite Warrior",
+      "Undead Dragon",
+      "Zanakeph",
+      "Zorvorax"
+    ],
+    "icon": "icons/unholy_bone.gif"
+  },
+  {
+    "name": "Vampire's Cape Chain",
+    "category": "Części ciał",
+    "weight": "6.20",
+    "dropsFrom": [
+      "Vampire Viscount",
+      "The Pale Count"
+    ],
+    "icon": "icons/vampires_cape_chain.gif"
+  },
+  {
+    "name": "Vein of Ore",
+    "category": "Części ciał",
+    "weight": "3.60",
+    "dropsFrom": [
+      "Cliff Strider",
+      "Drillworm",
+      "Orewalker"
+    ],
+    "icon": "icons/vein_of_ore.gif"
+  },
+  {
+    "name": "Venison",
+    "category": "Części ciał",
+    "weight": "3.80",
+    "dropsFrom": [
+      "Elder Forest Fury",
+      "Forest Fury"
+    ],
+    "icon": "icons/venison.gif"
+  },
+  {
+    "name": "Vile Axe",
+    "category": "Topory",
+    "weight": "52.00",
+    "dropsFrom": [
+      "Dark Torturer",
+      "Grimeleech",
+      "Eradicator",
+      "Ferumbras",
+      "Ferumbras Mortal Shell",
+      "Hellgorak",
+      "Horadron",
+      "Mazzinor",
+      "Realityquake"
+    ],
+    "icon": "icons/vile_axe.gif"
+  },
+  {
+    "name": "Volatile Proto Matter",
+    "category": "Części ciał",
+    "weight": "6.00",
+    "dropsFrom": [
+      "Breach Brood",
+      "Burster"
+    ],
+    "icon": "icons/volatile_proto_matter.gif"
+  },
+  {
+    "name": "War Axe",
+    "category": "Topory",
+    "weight": "61.50",
+    "dropsFrom": [
+      "Behemoth",
+      "Eyeless Devourer",
+      "Falcon Knight",
+      "Glooth Bandit",
+      "Hulking Prehemoth",
+      "Infernal Demon",
+      "Infernal Phantom",
+      "Juggernaut",
+      "Lost Basher",
+      "Nightmare",
+      "Norcferatu Heartless",
+      "Priestess of the Wild Sun",
+      "Rotten Golem",
+      "Stone Devourer",
+      "Streaked Devourer",
+      "Undead Dragon",
+      "Katex Blood Tongue",
+      "Outburst",
+      "Preceptor Lazare",
+      "Srezz Yellow Eyes",
+      "Stonecracker",
+      "The False God",
+      "Tormentor",
+      "Yirkas Blue Scales"
+    ],
+    "icon": "icons/war_axe.gif"
+  },
+  {
+    "name": "Wardragon Claw",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Wardragon"
+    ],
+    "icon": "icons/wardragon_claw.gif"
+  },
+  {
+    "name": "Wardragon Tooth",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Wardragon"
+    ],
+    "icon": "icons/wardragon_tooth.gif"
+  },
+  {
+    "name": "Waspoid Claw",
+    "category": "Części ciał",
+    "weight": "2.15",
+    "dropsFrom": [
+      "Waspoid",
+      "Chopper"
+    ],
+    "icon": "icons/waspoid_claw.gif"
+  },
+  {
+    "name": "Weaver's Wandtip",
+    "category": "Części ciał",
+    "weight": "1.70",
+    "dropsFrom": [
+      "Draken Spellweaver"
+    ],
+    "icon": "icons/weavers_wandtip.gif"
+  },
+  {
+    "name": "Werebadger Claws",
+    "category": "Części ciał",
+    "weight": "1.10",
+    "dropsFrom": [
+      "Werebadger",
+      "Sharpclaw"
+    ],
+    "icon": "icons/werebadger_claws.gif"
+  },
+  {
+    "name": "Werebadger Skull",
+    "category": "Części ciał",
+    "weight": "3.00",
+    "dropsFrom": [
+      "Werebadger",
+      "Sharpclaw"
+    ],
+    "icon": "icons/werebadger_skull.gif"
+  },
+  {
+    "name": "Werebear Fur",
+    "category": "Części ciał",
+    "weight": "5.00",
+    "dropsFrom": [
+      "Werebear",
+      "Shadowpelt"
+    ],
+    "icon": "icons/werebear_fur.gif"
+  },
+  {
+    "name": "Werebear Skull",
+    "category": "Części ciał",
+    "weight": "5.00",
+    "dropsFrom": [
+      "Werebear",
+      "Shadowpelt"
+    ],
+    "icon": "icons/werebear_skull.gif"
+  },
+  {
+    "name": "Wereboar Loincloth",
+    "category": "Nogawice",
+    "weight": "13.00",
+    "dropsFrom": [
+      "Wereboar",
+      "Bloodback",
+      "Feroxa",
+      "Owin"
+    ],
+    "icon": "icons/wereboar_loincloth.gif"
+  },
+  {
+    "name": "Wereboar Tusks",
+    "category": "Części ciał",
+    "weight": "1.90",
+    "dropsFrom": [
+      "Wereboar",
+      "Bloodback",
+      "Owin"
+    ],
+    "icon": "icons/wereboar_tusks.gif"
+  },
+  {
+    "name": "Werecrocodile Tongue",
+    "category": "Części ciał",
+    "weight": "2.80",
+    "dropsFrom": [
+      "Ayana The Crimson Curse",
+      "Feral Werecrocodile",
+      "Werecrocodile"
+    ],
+    "icon": "icons/werecrocodile_tongue.gif"
+  },
+  {
+    "name": "Werefox Tail",
+    "category": "Części ciał",
+    "weight": "1.40",
+    "dropsFrom": [
+      "Werefox",
+      "Black Vixen"
+    ],
+    "icon": "icons/werefox_tail.gif"
+  },
+  {
+    "name": "Werehyaena Nose",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Werehyaena",
+      "Werehyaena Shaman",
+      "Katex Blood Tongue"
+    ],
+    "icon": "icons/werehyaena_nose.gif"
+  },
+  {
+    "name": "Werehyaena Talisman",
+    "category": "Części ciał",
+    "weight": "0.80",
+    "dropsFrom": [
+      "Werehyaena",
+      "Werehyaena Shaman",
+      "Katex Blood Tongue"
+    ],
+    "icon": "icons/werehyaena_talisman.gif"
+  },
+  {
+    "name": "Werepanther Claw",
+    "category": "Części ciał",
+    "weight": "2.80",
+    "dropsFrom": [
+      "Cunning Werepanther",
+      "Werepanther"
+    ],
+    "icon": "icons/werepanther_claw.gif"
+  },
+  {
+    "name": "Weretiger Tooth",
+    "category": "Części ciał",
+    "weight": "2.80",
+    "dropsFrom": [
+      "Weretiger",
+      "White Weretiger",
+      "Tamru The Black"
+    ],
+    "icon": "icons/weretiger_tooth.gif"
+  },
+  {
+    "name": "Werewolf Fur",
+    "category": "Części ciał",
+    "weight": "1.13",
+    "dropsFrom": [
+      "Werewolf",
+      "Darkfang",
+      "Hemming"
+    ],
+    "icon": "icons/werewolf_fur.gif"
+  },
+  {
+    "name": "Widow's Mandibles",
+    "category": "Części ciał",
+    "weight": "1.05",
+    "dropsFrom": [
+      "Wailing Widow"
+    ],
+    "icon": "icons/widows_mandibles.gif"
+  },
+  {
+    "name": "Wild Flowers",
+    "category": "Części ciał",
+    "weight": "1.50",
+    "dropsFrom": [
+      "Angry Sugar Fairy",
+      "Nymph",
+      "Pixie",
+      "Swan Maiden"
+    ],
+    "icon": "icons/wild_flowers.gif"
+  },
+  {
+    "name": "Wimp Tooth Chain",
+    "category": "Części ciał",
+    "weight": "2.40",
+    "dropsFrom": [
+      "Lost Basher",
+      "Lost Exile",
+      "Lost Husher"
+    ],
+    "icon": "icons/wimp_tooth_chain.gif"
+  },
+  {
+    "name": "Winged Tail",
+    "category": "Części ciał",
+    "weight": "4.50",
+    "dropsFrom": [
+      "Serpent Spawn",
+      "Srezz Yellow Eyes",
+      "The Noxious Spawn"
+    ],
+    "icon": "icons/winged_tail.gif"
+  },
+  {
+    "name": "Witch Broom",
+    "category": "Części ciał",
+    "weight": "3.33",
+    "dropsFrom": [
+      "Witch",
+      "Ekatrix"
+    ],
+    "icon": "icons/witch_broom.gif"
+  },
+  {
+    "name": "Wood Cape",
+    "category": "Hełmy",
+    "weight": "11.00",
+    "dropsFrom": [
+      "Adult Goanna",
+      "Arctic Faun",
+      "Capricious Phantom",
+      "Crazed Summer Rearguard",
+      "Dark Faun",
+      "Faun",
+      "Monk's Apparition",
+      "Paladin's Apparition",
+      "Pirat Bombardier",
+      "Rootthing Bug Tracker",
+      "Rotten Golem",
+      "Rotten Man-Maggot",
+      "Soul-broken Harbinger",
+      "Turbulent Elemental",
+      "Usurper Archer",
+      "Varnished Diremaw",
+      "Venerable Girtablilu",
+      "Guard Captain Quaid",
+      "Ravenous Hunger",
+      "Raxias"
+    ],
+    "icon": "icons/wood_cape.gif"
+  },
+  {
+    "name": "Wooden Spellbook",
+    "category": "Tarcze",
+    "weight": "12.00",
+    "dropsFrom": [
+      "Arctic Faun",
+      "Boogy",
+      "Dark Faun",
+      "Faun",
+      "Mitmah Seer",
+      "Noxious Ripptor",
+      "Pixie",
+      "Raubritter Chastener",
+      "Rootthing Amber Shaper",
+      "Sineater Inferniarch",
+      "Young Goanna",
+      "Clavius",
+      "Court Warlock",
+      "Ravenous Hunger"
+    ],
+    "icon": "icons/wooden_spellbook.gif"
+  },
+  {
+    "name": "Worm Sponge",
+    "category": "Części ciał",
+    "weight": "1.00",
+    "dropsFrom": [
+      "Meandering Mushroom",
+      "Oozing Corpus"
+    ],
+    "icon": "icons/worm_sponge.gif"
+  },
+  {
+    "name": "Yapunac Dagger",
+    "category": "Części ciał",
+    "weight": "2.00",
+    "dropsFrom": [
+      "Atab",
+      "Iks Yapunac"
+    ],
+    "icon": "icons/yapunac_dagger.gif"
+  },
+  {
+    "name": "Zaoan Armor",
+    "category": "Zbroje",
+    "weight": "95.50",
+    "dropsFrom": [
+      "Darklight Emitter",
+      "Draken Abomination",
+      "Draken Elite",
+      "Draken Warmaster",
+      "Ghastly Dragon",
+      "Lizard Chosen",
+      "Lizard High Guard",
+      "Lizard Legionnaire",
+      "Lizard Zaogun",
+      "Battlemaster Zunzu",
+      "Ethershreck",
+      "Fazzrah",
+      "Lizard Gate Guardian",
+      "Paiz the Pauperizer"
+    ],
+    "icon": "icons/zaoan_armor.gif"
+  },
+  {
+    "name": "Zaoan Robe",
+    "category": "Zbroje",
+    "weight": "24.50",
+    "dropsFrom": [
+      "Draken Spellweaver",
+      "Lizard Dragon Priest",
+      "Flamecaller Zazrak"
+    ],
+    "icon": "icons/zaoan_robe.gif"
+  },
+  {
+    "name": "Zaoan Shoes",
+    "category": "Buty",
+    "weight": "7.00",
+    "dropsFrom": [
+      "Darklight Construct",
+      "Draken Spellweaver",
+      "Draken Warmaster",
+      "Ghastly Dragon",
+      "Lizard Chosen",
+      "Lizard Dragon Priest",
+      "Lizard High Guard",
+      "Lizard Legionnaire",
+      "Lizard Zaogun",
+      "Battlemaster Zunzu",
+      "Ethershreck",
+      "Fazzrah",
+      "Flamecaller Zazrak",
+      "Hatebreeder",
+      "Lizard Gate Guardian",
+      "The Voice of Ruin"
+    ],
+    "icon": "icons/zaoan_shoes.gif"
+  },
+  {
+    "name": "Zaogun Flag",
+    "category": "Części ciał",
+    "weight": "0.98",
+    "dropsFrom": [
+      "Lizard Zaogun",
+      "Battlemaster Zunzu",
+      "Fazzrah"
+    ],
+    "icon": "icons/zaogun_flag.gif"
+  },
+  {
+    "name": "Zaogun Shoulderplates",
+    "category": "Części ciał",
+    "weight": "1.03",
+    "dropsFrom": [
+      "Lizard Zaogun",
+      "Battlemaster Zunzu",
+      "Fazzrah"
+    ],
+    "icon": "icons/zaogun_shoulderplates.gif"
   }
 ]
