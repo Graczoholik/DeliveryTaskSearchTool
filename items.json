@@ -1,4 +1,12 @@
-[
+[ {
+    "name": "Afflicted Strider Head",
+    "category": "Części ciał",
+    "weight": "1.70",
+    "dropsFrom": [
+      "Afflicted Strider"
+    ],
+    "icon": "icons/afflicted_strider_head.gif"
+  },
   {
     "name": "Afflicted Strider Worms",
     "category": "Części ciał",
@@ -6025,4 +6033,5 @@
     ],
     "icon": "icons/zaogun_shoulderplates.gif"
   }
+
 ]
